@@ -1,5 +1,5 @@
 import { globby } from 'globby'
-import {matter} from 'gray-matter'
+import matter from 'gray-matter'
 import fs from 'fs-extra'
 import path from 'path'
 
