@@ -7,7 +7,7 @@ hero:
   tagline: |
     Here you’ll find news, tips, and insights to help you get the most out of your AI chat experience on AICHIKI.ai.
   image:
-    src: /aichiki-avatar.webp
+    src: /aichiki-avatar.png
     alt: AICHIKI Blog
   actions:
     - theme: brand
