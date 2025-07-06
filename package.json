@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "docs:dev": "vitepress dev docs",
-    "docs:build": "vitepress build docs",
+    "docs:build": "vitepress build docs && node docs/.vitepress/scripts/generate-rss.js",
     "docs:preview": "vitepress preview docs",
     "format": "prettier --write ."
   },
@@ -14,6 +14,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "feed": "5.1.0",
     "prettier": "3.6.2",
     "vitepress": "^1.6.3",
     "vue": "^3.5.17"
