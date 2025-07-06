@@ -1,31 +1,19 @@
-<template>
-  <div class="blog-layout">
-    <header>
-      <h1><a :href="site.base">{{ site.title }}</a></h1>
-      <p>{{ site.description }}</p>
-    </header>
-    <main>
-      <div v-if="frontmatter.layout === 'home'">
-        <div v-for="post in posts" :key="post.path">
-          <h2><a :href="post.path">{{ post.frontmatter.title }}</a></h2>
-          <p>{{ post.frontmatter.excerpt }}</p>
-        </div>
-      </div>
-      <Content v-else />
-    </main>
-  </div>
-</template>
-
-<script>
+<script setup>
+import DefaultTheme from 'vitepress/theme'
+import Home from './Home.vue'
 import { useData } from 'vitepress'
 
-export default {
-  setup() {
-    const { site, frontmatter, theme } = useData()
-    return { site, frontmatter, posts: theme.value.posts }
-  }
-}
+const { Layout } = DefaultTheme
+const { frontmatter } = useData()
 </script>
+
+<template>
+  <Layout>
+    <template #home-hero-after>
+      <Home />
+    </template>
+  </Layout>
+</template>
 
 <style>
 .blog-layout {
