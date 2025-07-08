@@ -1,53 +1,48 @@
 ---
-title: "🌿 An Important Update from the Aichiki Team"
+title: "An Important Update on Our AI Models"
 date: 2024-07-06
-excerpt: "An important update about our AI models. To keep Aichiki sustainable and ad-free, we'll be switching to more affordable models for free users while premium users continue with higher-tier models."
-published: false
+excerpt: "An important update about our AI models. To keep AICHIKI sustainable and ad-free, we'll be switching to more affordable models for free users while premium users continue with higher-tier models."
+published: true
 ---
 
-# 🌿 An Important Update from the Aichiki Team
+# An Important Update on Our AI Models
 
-### A Message from Persephone and the Developer Behind Aichiki
+Hello everyone,
 
-Hello, everyone.
+Our mission at AICHIKI has always been to create a high-quality, independent space for creative storytelling. As a platform built by a small team and funded by its community, every decision we make is aimed at ensuring the long-term health and sustainability of the app.
 
-If you're reading this, you're part of something close to our hearts. Aichiki isn't just an app—it's the result of countless late nights, endless testing, and a shared dream to create a space where you can connect with AI characters in a way that feels meaningful and inspiring.
+To that end, we need to share an important update about the AI models that power your conversations.
 
-Some of you know me as Persephone on the app and in our Discord channel. I'm the person who tests every AI model before you ever see it and the creator behind many of the characters you chat with. My husband is the developer who built Aichiki from the ground up—on his own—while transitioning from web development to mobile apps for the very first time.
+### What is Changing?
 
-Together, we've poured everything we have into making Aichiki feel like home for your imagination.
+In the coming days, we will be transitioning our free tier to more cost-effective AI models.
 
-### What's Changing
-
-Starting soon, we will be switching to more affordable AI models for free users.
-
-If you have a premium subscription, nothing will change—you'll continue using the same higher-tier AI models as before.
+For our premium subscribers, your experience will remain unchanged. You will continue to have access to the same higher-tier AI models as always.
 
 ### Why We're Making This Change
 
-This decision wasn't easy. But here's the truth:
+Transparency is a core value for us, so we want to be direct about why this is necessary.
 
-We don't have investors backing us. We pay for every AI model ourselves, out of pocket, because we believe in what we're building.
+AICHIKI is 100% community-funded. We have no investors, and we are committed to keeping the platform free of ads and refusing to ever sell user data. This independent model allows us to focus entirely on building the best possible product for you.
 
-We also made the deliberate choice not to fill Aichiki with ads—we know how disruptive they can be—and we never sell your information to third parties. It's just us here, doing our best to provide you with a genuine, private, ad-free experience.
+However, the AI that powers AICHIKI is incredibly expensive. To continue offering a generous free tier without compromising our principles, we must manage our operational costs sustainably. This adjustment ensures that AICHIKI can remain stable, independent, and continue to grow for years to come.
 
-Using the more affordable models for free accounts is the only way we can keep Aichiki sustainable while staying true to these values.
+This was a strategic decision to protect the future of the platform for everyone.
 
 ### What This Means for You
 
 **Free Users:**
-You will still have access to Aichiki and all your existing chats and characters. The AI model you interact with will simply be a more cost-effective version. While the experience may feel a little different in subtle ways, we're working hard to ensure it remains as engaging and responsive as possible.
+You will continue to have full access to AICHIKI, your characters, and all your chats. The underlying AI model will be different, and while we are working hard to ensure it remains engaging, you may notice a change in the experience. The core functionality remains completely free to use.
 
 **Premium Users:**
-Your experience stays exactly the same. You'll continue using the higher-quality AI models your subscription supports.
+Your subscription continues to grant you access to our highest-quality AI models with no changes. Your support is what makes AICHIKI possible, and it directly funds the operational costs and future development of the app. We are incredibly grateful for your partnership.
 
-If you love Aichiki and want to help keep it growing, upgrading to premium directly supports our ability to offer the best AI models and maintain an ad-free platform for everyone.
+### Our Commitment Moving Forward
 
-### Thank You for Understanding
+We understand that any change can be an adjustment. This step is essential for us to remain an independent, ad-free platform dedicated to privacy and creativity. It allows us to build a sustainable foundation for the future.
 
-We know changes like this can feel disappointing. But we hope you see this for what it is: a step to keep Aichiki alive, authentic, and independent.
+We are deeply grateful for your support and understanding. If you have any questions, please feel free to reach out on Discord or through our official support channels.
 
-Thank you for being part of this journey with us, for your patience, and for believing in what we're building. If you have any questions or thoughts, please reach out in our Discord or through our support channels.
+Thank you for being on this journey with us.
 
-With all our hearts—
-**Persephone & the Aichiki Team**
+— The AICHIKI Team (Rudolf & Edith)
