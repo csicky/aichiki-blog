@@ -1,70 +1,71 @@
 ---
-title: 'Comment Choisir Votre Forfait AICHIKI : Un Guide Simple'
-date: 2024-07-30
-excerpt: "Avec plusieurs façons d'utiliser AICHIKI, nous voulions créer un guide clair pour vous aider à trouver la meilleure option. Voici une description simple de chaque forfait, ce qu'il comprend et à qui il s'adresse."
+title: "Choisir Votre Paquet AICHIKI: Un Guide Simple"
+date: 2024-08-26
+author: "AICHIKI Team"
+excerpt: "Trouvez le paquet AICHIKI parfait pour vos besoins de plateforme IA. Comparez les options d'abonnement Premium, Day Passes et Memory Boost."
 ---
 
-# Choisir votre forfait AICHIKI : Un guide simple
+# Choisir Votre Paquet AICHIKI: Un Guide Simple
 
-Avec plusieurs façons d'utiliser AICHIKI, nous voulions créer un guide clair pour vous aider à trouver la meilleure option. Voici une description simple de chaque forfait, ce qu'il comprend et à qui il s'adresse. Nous aborderons également les changements de prix à venir afin que vous puissiez faire un choix éclairé.
+AICHIKI offre de multiples options de paquets pour tous les besoins et budgets. Nous nous engageons à fournir la meilleure expérience IA à des prix abordables. Voici un aperçu des paquets disponibles.
 
-## Abonnement Premium : Pour l'expérience complète AICHIKI
+## Pourquoi Choisir AICHIKI?
 
-L'abonnement Premium est conçu pour nos utilisateurs réguliers. Il débloque tout le potentiel de la plateforme et constitue l'option la plus rentable pour une utilisation fréquente.
+Avec AICHIKI, vous obtenez l'accès aux modèles IA les plus récents et puissants comme Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro, o1-preview et o1-mini. C'est votre guichet unique pour la meilleure technologie IA.
 
-**Tarifs :**
+## Paquet Plus - $3.99/mois (+TVA)
 
-*   **Actuel (jusqu'au 31 août) :**
-    *   Mensuel : ~10 $/mois
-    *   Annuel : 100 $/an
-*   **À partir du 1er septembre :**
-    *   Mensuel : ~15 $/mois
-    *   Annuel : ~150 $/an
+Le paquet Plus offre toutes les fonctionnalités gratuites plus une mémoire illimitée dans tous les chats:
 
-**Promotion de lancement :** Abonnez-vous avant le 1er septembre pour bénéficier des tarifs actuels. Le forfait mensuel est bloqué pour un an et le forfait annuel pour deux ans.
+- **Prix**: Seulement $3.99/mois (+TVA où applicable)
+- **Mémoire**: Mémoire illimitée dans tous les chats
+- **Modèles**: Modèles IA du niveau gratuit
+- **Idéal pour**: Besoins réguliers de mémoire sans nécessiter de modèles Premium
 
-**Fonctionnalités Premium :**
+Si vous voulez que les chats se souviennent de votre contexte régulièrement mais n'avez pas besoin des modèles IA les plus avancés, le paquet Plus est beaucoup plus économique que d'acheter des Memory Boosts répétitivement.
 
-*   Accès à nos meilleurs et plus intelligents modèles d'IA
-*   Mémoire illimitée dans toutes vos conversations
-*   Paramètres de discussion et personnalisations avancés
-*   Un cadre premium pour votre photo de profil ✨
+## Abonnement Premium
 
-**Idéal pour :** Si vous utilisez AICHIKI régulièrement, le Premium offre le meilleur rapport qualité-prix et l'expérience la plus complète. Votre soutien nous aide également directement à faire évoluer et à améliorer la plateforme.
+Notre paquet phare offre un accès complet à la meilleure expérience IA:
 
-## Pass et Boosts Flexibles
+- **Prix actuel**: $10/mois ou $100/an
+- **Après le 1er septembre**: $15/mois ou $150/an
+- **Inclut**:
+  - Tous les modèles IA Premium (Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro, o1-preview, o1-mini)
+  - Mémoire illimitée dans tous les chats
+  - Support prioritaire
+  - Accès anticipé aux nouvelles fonctionnalités
 
-Vous n'avez pas besoin d'un abonnement complet ? Ces options sont destinées à une utilisation plus occasionnelle ou spécifique.
+## Day Passes - Accès à Court Terme
 
-### Pass journalier : 1 jour (1 $) ou 3 jours (2 $)
+Besoin de fonctionnalités Premium pour une courte période? Les Day Passes sont parfaits:
 
-Obtenez un accès Premium complet pour une courte période. Nous proposons deux options :
+- **1-Day Pass**: $1 - Accès Premium complet pendant 24 heures
+- **3-Day Pass**: $2 - Accès Premium complet pendant 72 heures
 
-*   **Pass 1 jour :** Pour 1 $, vous bénéficiez de 24 heures d'accès Premium complet.
-*   **Pass 3 jours :** Pour 2 $, vous bénéficiez de three jours complets d'accès. C'est un excellent rapport qualité-prix : deux jours supplémentaires pour seulement un dollar de plus.
+## Memory Boost - Pour un Chat Spécifique
 
-Les deux pass incluent les meilleurs modèles d'IA, une mémoire illimitée dans tous les chats et toutes les personnalisations.
+Besoin de mémoire étendue dans un chat spécifique?
 
-**Idéal pour :** Essayer les fonctionnalités Premium ou pour des sessions occasionnelles et ciblées.
+- **Prix**: $1
+- **Durée**: 3 jours
+- **Inclut**: Mémoire illimitée dans un chat
+- **Important**: Ceci n'inclut pas l'accès aux modèles Premium
 
-### Boost de mémoire (1 $)
+**Note**: Memory Boost fournit uniquement la mémoire dans un chat et n'inclut pas les modèles IA Premium. Pour des besoins réguliers de mémoire, le paquet Plus ($3.99/mois) offre une meilleure valeur. Pour un accès Premium complet, le 3-Day Pass ($2) est une meilleure option.
 
-Il s'agit d'une mise à niveau ciblée pour une seule conversation. Pour 1 $, vous bénéficiez d'une mémoire illimitée dans un fil de discussion pendant trois jours.
+## Promotion Spéciale de Lancement
 
-**Important :** Ce boost fournit **uniquement** une mémoire illimitée dans un seul chat ; il ne donne pas accès aux modèles Premium ou à d'autres fonctionnalités. Pour seulement 1 $ de plus, le **Pass 3 jours (2 $)** vous donne un accès Premium complet sur toute la plateforme pour la même durée, ce qui est souvent une meilleure valeur.
+**Agissez avant le 1er septembre!** Pour verrouiller les tarifs actuels avant l'augmentation de prix:
 
-**Idéal pour :** Lorsque vous n'avez besoin que d'un rappel parfait dans une seule histoire et que vous n'avez pas besoin d'autres fonctionnalités Premium.
+1. Achetez un abonnement Premium maintenant
+2. Conservez le prix actuel jusqu'à votre prochaine date de facturation
+3. Économisez $5/mois, $50/an à long terme
 
-## Remarque importante sur les prix et la TVA
+## Prêt à Commencer?
 
-Veuillez noter que tous les prix indiqués sont des prix de base. Selon votre pays, la taxe sur la valeur ajoutée (TVA) ou d'autres taxes locales peuvent être ajoutées au moment du paiement. Le prix final sera affiché avant que vous ne confirmiez votre paiement.
+Visitez [AICHIKI](https://aichiki.com) et commencez votre voyage IA aujourd'hui. Quel que soit le paquet que vous choisissez, nous garantissons la meilleure technologie IA et une excellente expérience utilisateur.
 
-## Notre approche
+---
 
-Nous proposons différents forfaits car nous savons que tout le monde utilise AICHIKI différemment. Notre objectif est de fournir des options flexibles qui correspondent à votre style d'utilisation.
-
-Nous sommes une petite équipe indépendante qui construit cette plateforme. Votre soutien couvre directement nos coûts principaux, tels que les modèles d'IA avancés et l'infrastructure des serveurs, et nous permet de continuer à développer de nouvelles fonctionnalités. Nous apprécions chaque membre de notre communauté, que vous soyez ici pour l'expérience gratuite ou que vous choisissiez de passer à une version supérieure.
-
-Merci de votre lecture, et nous sommes heureux de vous compter parmi nous.
-
-— L'équipe AICHIKI
+*Des questions? Notre équipe de support est là pour vous aider. N'hésitez pas à nous contacter à hello@aichiki.com.*

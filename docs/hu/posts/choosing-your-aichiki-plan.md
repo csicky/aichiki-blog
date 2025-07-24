@@ -32,6 +32,22 @@ A Prémium előfizetés a rendszeres felhasználóink számára készült. Felol
 
 **Legjobb:** Ha rendszeresen használja az AICHIKI-t, a Prémium nyújtja a legjobb értéket és a teljes élményt. Támogatása közvetlenül segít nekünk a platform növekedésében és fejlesztésében.
 
+## Plus Előfizetés: Ingyenes Funkciók Korlátlan Memóriával
+
+A Plus előfizetés hidat képez az ingyenes élmény és a Prémium között. Tökéletes, ha szereti az ingyenes funkcióinkat, de korlátlan memóriára van szüksége minden beszélgetésében.
+
+**Árak:**
+
+*   Havi: 3,99 $/hó (plusz ÁFA országától függően)
+
+**Plus Funkciók:**
+
+*   Minden ingyenes funkció, amit már élvez
+*   Korlátlan memória minden beszélgetésében
+*   Hozzáférés ugyanazokhoz az AI modellekhez, mint az ingyenes szinten
+
+**Legjobb:** Azoknak a felhasználóknak, akik elégedettek az ingyenes élménnyel, de korlátlan memóriát szeretnének anélkül, hogy szükségük lenne a Prémium fejlett modelljeire és funkcióira.
+
 ## Rugalmas Belépők és Gyorsítók
 
 Nincs szüksége teljes előfizetésre? Ezek az opciók alkalmi vagy specifikus használatra szolgálnak.
@@ -52,6 +68,8 @@ Mindkét belépő tartalmazza a legjobb MI modelleket, korlátlan memóriát min
 Ez egy célzott frissítés egyetlen beszélgetéshez. 1 dollárért korlátlan memóriát kap egy csevegési szálban három napig.
 
 **Fontos:** Ez a gyorsító **csak** egy csevegésben biztosít korlátlan memóriát; nem ad hozzáférést a Prémium modellekhez vagy más funkciókhoz. Mindössze 1 dollárral többért a **3 napos bérlet (2 dollár)** teljes Prémium hozzáférést biztosít az egész platformon ugyanannyi ideig, ami gyakran jobb ár-érték arányt képvisel.
+
+**Fontolja meg:** Ha rendszeresen szükség van memória gyorsítókra, a **Plus előfizetés (3,99 $/hó)** korlátlan memóriát kínál minden csevegésében az egész hónapra—sokkal jobb érték, mint több memória gyorsító.
 
 **Legjobb:** Ha csak egyetlen történetben van szüksége tökéletes visszaemlékezésre, és nincs szüksége más Prémium funkciókra.
 

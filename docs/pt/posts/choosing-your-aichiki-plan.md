@@ -1,70 +1,71 @@
 ---
-title: 'Como Escolher o Seu Pacote AICHIKI: Um Guia Simples'
-date: 2024-07-30
-excerpt: "Com algumas maneiras diferentes de usar o AICHIKI, queríamos criar um guia claro para ajudá-lo a encontrar o melhor ajuste. Aqui está um resumo simples de cada plano, o que ele inclui e para quem é melhor."
+title: "Escolhendo Seu Pacote AICHIKI: Um Guia Simples"
+date: 2024-08-26
+author: "AICHIKI Team"
+excerpt: "Encontre o pacote AICHIKI perfeito para suas necessidades de plataforma de IA. Compare as opções de assinatura Premium, Day Passes e Memory Boost."
 ---
 
-# Escolhendo seu Plano AICHIKI: Um Guia Simples
+# Escolhendo Seu Pacote AICHIKI: Um Guia Simples
 
-Com algumas maneiras diferentes de usar o AICHIKI, queríamos criar um guia claro para ajudá-lo a encontrar o melhor ajuste. Aqui está um resumo simples de cada plano, o que ele inclui e para quem é melhor. Também abordaremos as próximas mudanças de preço para que você possa fazer uma escolha informada.
+O AICHIKI oferece múltiplas opções de pacotes para cada necessidade e orçamento. Estamos comprometidos em fornecer a melhor experiência de IA a preços acessíveis. Aqui está uma visão geral dos pacotes disponíveis.
 
-## Assinatura Premium: Para a Experiência Completa do AICHIKI
+## Por Que Escolher AICHIKI?
 
-A assinatura Premium é projetada para nossos usuários regulares. Ela desbloqueia todo o potencial da plataforma e é a opção mais econômica para uso frequente.
+Com o AICHIKI, você obtém acesso aos modelos de IA mais recentes e poderosos, como Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro, o1-preview e o1-mini. É seu balcão único para a melhor tecnologia de IA.
 
-**Preços:**
+## Pacote Plus - $3.99/mês (+IVA)
 
-*   **Atual (Até 31 de agosto):**
-    *   Mensal: ~$10/mês
-    *   Anual: $100/ano
-*   **A partir de 1º de setembro:**
-    *   Mensal: ~$15/mês
-    *   Anual: ~$150/ano
+O pacote Plus oferece todos os recursos gratuitos mais memória ilimitada em todos os chats:
 
-**Promoção de Lançamento:** Assine antes de 1º de setembro para garantir as taxas atuais. O plano mensal é bloqueado por um ano e o plano anual por dois anos.
+- **Preço**: Apenas $3.99/mês (+IVA onde aplicável)
+- **Memória**: Memória ilimitada em todos os chats
+- **Modelos**: Modelos de IA do nível gratuito
+- **Melhor para**: Necessidades regulares de memória sem precisar de modelos Premium
 
-**Recursos Premium:**
+Se você quer que os chats lembrem seu contexto regularmente, mas não precisa dos modelos de IA mais avançados, o pacote Plus é muito mais econômico do que comprar Memory Boosts repetidamente.
 
-*   Acesso aos nossos melhores e mais inteligentes modelos de IA
-*   Memória ilimitada em todas as suas conversas
-*   Configurações e personalizações avançadas de bate-papo
-*   Uma moldura premium para sua foto de perfil ✨
+## Assinatura Premium
 
-**Ideal para:** Se você usa o AICHIKI regularmente, o Premium oferece o melhor valor e a experiência completa. Seu apoio também nos ajuda diretamente a crescer e melhorar a plataforma.
+Nosso pacote principal oferece acesso completo à melhor experiência de IA:
 
-## Passes e Impulsos Flexíveis
+- **Preço atual**: $10/mês ou $100/ano
+- **Após 1º de setembro**: $15/mês ou $150/ano
+- **Inclui**:
+  - Todos os modelos de IA Premium (Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro, o1-preview, o1-mini)
+  - Memória ilimitada em todos os chats
+  - Suporte prioritário
+  - Acesso antecipado a novos recursos
 
-Não precisa de uma assinatura completa? Estas opções são para uso mais casual ou específico.
+## Day Passes - Acesso de Curto Prazo
 
-### Passe de um Dia: 1 Dia ($1) ou 3 Dias ($2)
+Precisa de recursos Premium por um curto período? Day Passes são perfeitos:
 
-Obtenha acesso Premium completo por um curto período. Oferecemos duas opções:
+- **1-Day Pass**: $1 - Acesso Premium completo por 24 horas
+- **3-Day Pass**: $2 - Acesso Premium completo por 72 horas
 
-*   **Passe de 1 Dia:** Por $1, você obtém 24 horas de acesso Premium completo.
-*   **Passe de 3 Dias:** Por $2, você obtém três dias completos de acesso. É um ótimo valor - dois dias extras por apenas um dólar a mais.
+## Memory Boost - Para Chat Específico
 
-Ambos os passes incluem os melhores modelos de IA, memória ilimitada em todos os bate-papos e todas as personalizações.
+Precisa de memória estendida em um chat específico?
 
-**Ideal para:** Experimentar os recursos Premium ou para sessões ocasionais e focadas.
+- **Preço**: $1
+- **Duração**: 3 dias
+- **Inclui**: Memória ilimitada em um chat
+- **Importante**: Isso não inclui acesso a modelos Premium
 
-### Impulso de Memória ($1)
+**Nota**: Memory Boost fornece apenas memória em um chat e não inclui modelos de IA Premium. Para necessidades regulares de memória, o pacote Plus ($3.99/mês) oferece melhor valor. Para acesso Premium completo, o 3-Day Pass ($2) é uma opção melhor.
 
-Esta é uma atualização direcionada para uma única conversa. Por $1, você obtém memória ilimitada em um tópico de bate-papo por três dias.
+## Promoção Especial de Lançamento
 
-**Importante:** Este impulso **apenas** fornece memória ilimitada em um bate-papo; não concede acesso a modelos Premium ou outros recursos. Por apenas $1 a mais, o **Passe de 3 Dias ($2)** oferece acesso Premium completo em toda a plataforma pela mesma duração, o que geralmente é um valor melhor.
+**Aja antes de 1º de setembro!** Para garantir as tarifas atuais antes do aumento de preços:
 
-**Ideal para:** Quando você só precisa de uma recordação perfeita em uma única história e não precisa de outros recursos Premium.
+1. Compre uma assinatura Premium agora
+2. Mantenha o preço atual até a próxima data de cobrança
+3. Economize $5/mês, $50/ano a longo prazo
 
-## Nota Importante sobre Preços e IVA
+## Pronto para Começar?
 
-Observe que todos os preços listados são preços base. Dependendo do seu país, o Imposto sobre Valor Agregado (IVA) ou outros impostos locais podem ser adicionados na finalização da compra. O preço final será exibido antes de você confirmar seu pagamento.
+Visite [AICHIKI](https://aichiki.com) e comece sua jornada de IA hoje. Qualquer que seja o pacote que você escolher, garantimos a melhor tecnologia de IA e excelente experiência do usuário.
 
-## Nossa Abordagem
+---
 
-Oferecemos planos diferentes porque sabemos que todos usam o AICHIKI de maneira diferente. Nosso objetivo é fornecer opções flexíveis que correspondam ao seu estilo de uso.
-
-Somos uma equipe pequena e independente que constrói esta plataforma. Seu apoio cobre diretamente nossos custos primários, como os modelos avançados de IA e a infraestrutura de servidores, e nos permite continuar desenvolvendo novos recursos. Agradecemos a todos os membros de nossa comunidade, quer estejam aqui pela experiência gratuita ou optem por atualizar.
-
-Obrigado por ler, e estamos felizes em tê-lo conosco.
-
-— A Equipe AICHIKI
+*Tem perguntas? Nossa equipe de suporte está aqui para ajudar. Não hesite em entrar em contato em hello@aichiki.com.*

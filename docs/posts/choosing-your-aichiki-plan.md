@@ -30,6 +30,23 @@ The Premium subscription is designed for our regular users. It unlocks the platf
 *   A premium frame for your profile picture ✨
 
 **Best for:** If you use AICHIKI regularly, Premium offers the best value and the complete experience. Your support also directly helps us grow and improve the platform.
+
+## Plus Subscription: Free Features with Unlimited Memory
+
+The Plus subscription bridges the gap between our free experience and Premium. It's perfect if you love our free features but need unlimited memory across all your conversations.
+
+**Pricing:**
+
+*   Monthly: $3.99/month (plus VAT depending on your country)
+
+**Plus Features:**
+
+*   All free features you already enjoy
+*   Unlimited memory across all your conversations
+*   Access to the same AI models as the free tier
+
+**Best for:** Users who are happy with the free experience but want unlimited memory without needing Premium's advanced models and features.
+
 ## Flexible Passes & Boosts
 
 Don't need a full subscription? These options are for more casual or specific use.
@@ -48,6 +65,8 @@ Both passes include the top AI models, unlimited memory in all chats, and all cu
 This is a targeted upgrade for a single conversation. For $1, you get unlimited memory in one chat thread for three days.
 
 **Important:** This boost **only** provides unlimited memory in one chat; it does not grant access to Premium models or other features. For just $1 more, the **3-Day Pass ($2)** gives you full Premium access across the entire platform for the same duration, which is often a better value.
+
+**Consider this:** If you find yourself needing memory boosts regularly, the **Plus subscription ($3.99/month)** offers unlimited memory across all your chats for the entire month—much better value than multiple memory boosts.
 
 **Best for:** When you only need perfect recall in a single storyline and don't need any other Premium features.
 ## Important Note on Pricing & VAT

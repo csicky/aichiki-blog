@@ -32,6 +32,22 @@ Abonamentul Premium este conceput pentru utilizatorii noștri obișnuiți. Acest
 
 **Cel mai bun pentru:** Dacă utilizați AICHIKI în mod regulat, Premium oferă cea mai bună valoare și experiența completă. Sprijinul dumneavoastră ne ajută, de asemenea, direct să creștem și să îmbunătățim platforma.
 
+## Abonament Plus: Funcții Gratuite cu Memorie Nelimitată
+
+Abonamentul Plus face legătura între experiența noastră gratuită și Premium. Este perfect dacă vă plac funcțiile noastre gratuite, dar aveți nevoie de memorie nelimitată în toate conversațiile.
+
+**Prețuri:**
+
+*   Lunar: 3,99 $/lună (plus TVA în funcție de țara dumneavoastră)
+
+**Funcționalități Plus:**
+
+*   Toate funcțiile gratuite de care vă bucurați deja
+*   Memorie nelimitată în toate conversațiile
+*   Acces la aceleași modele AI ca și nivelul gratuit
+
+**Cel mai bun pentru:** Utilizatorii care sunt mulțumiți de experiența gratuită, dar doresc memorie nelimitată fără să aibă nevoie de modelele avansate și funcționalitățile Premium.
+
 ## Tichete Flexibile și Amplificări
 
 Nu aveți nevoie de un abonament complet? Aceste opțiuni sunt pentru utilizare mai ocazională sau specifică.
@@ -52,6 +68,8 @@ Ambele tichete includ cele mai bune modele AI, memorie nelimitată în toate cha
 Aceasta este o actualizare specifică pentru o singură conversație. Pentru 1$, obțineți memorie nelimitată într-un fir de chat pentru trei zile.
 
 **Important:** Această amplificare oferă **doar** memorie nelimitată într-un singur chat; nu acordă acces la modelele Premium sau la alte funcționalități. Pentru doar 1$ în plus, **Tichetul de 3 Zile (2$)** vă oferă acces Premium complet pe întreaga platformă pentru aceeași durată, ceea ce este adesea o valoare mai bună.
+
+**Luați în considerare:** Dacă vă trezește că aveți nevoie regulat de amplificări de memorie, **abonamentul Plus (3,99 $/lună)** oferă memorie nelimitată în toate chaturile pentru întreaga lună—o valoare mult mai bună decât mai multe amplificări de memorie.
 
 **Cel mai bun pentru:** Când aveți nevoie de o amintire perfectă doar într-o singură poveste și nu aveți nevoie de alte funcționalități Premium.
 

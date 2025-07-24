@@ -32,6 +32,22 @@ Das Premium-Abonnement ist für unsere regelmäßigen Nutzer gedacht. Es schalte
 
 **Am besten für:** Wenn Sie AICHIKI regelmäßig nutzen, bietet Premium den besten Wert und das umfassendste Erlebnis. Ihre Unterstützung hilft uns auch direkt, die Plattform zu erweitern und zu verbessern.
 
+## Plus-Abonnement: Kostenlose Funktionen mit unbegrenztem Speicher
+
+Das Plus-Abonnement schließt die Lücke zwischen unserem kostenlosen Erlebnis und Premium. Es ist perfekt, wenn Sie unsere kostenlosen Funktionen lieben, aber unbegrenzten Speicher in allen Ihren Gesprächen benötigen.
+
+**Preise:**
+
+*   Monatlich: 3,99 $/Monat (plus MwSt. je nach Land)
+
+**Plus-Funktionen:**
+
+*   Alle kostenlosen Funktionen, die Sie bereits schätzen
+*   Unbegrenzter Speicher in allen Ihren Gesprächen
+*   Zugang zu denselben KI-Modellen wie im kostenlosen Tarif
+
+**Am besten für:** Nutzer, die mit dem kostenlosen Erlebnis zufrieden sind, aber unbegrenzten Speicher benötigen, ohne die erweiterten Modelle und Funktionen von Premium zu brauchen.
+
 ## Flexible Pässe & Boosts
 
 Benötigen Sie kein vollständiges Abonnement? Diese Optionen sind für eine gelegentliche oder spezifische Nutzung gedacht.
@@ -52,6 +68,8 @@ Beide Pässe beinhalten die besten KI-Modelle, unbegrenzten Speicherplatz in all
 Dies ist ein gezieltes Upgrade für eine einzelne Konversation. Für $1 erhalten Sie unbegrenzten Speicherplatz in einem Chat-Thread für drei Tage.
 
 **Wichtig:** Dieser Boost bietet **nur** unbegrenzten Speicher in einem Chat; er gewährt keinen Zugriff auf Premium-Modelle oder andere Funktionen. Für nur $1 mehr bietet der **3-Tage-Pass ($2)** für den gleichen Zeitraum vollen Premium-Zugang auf der gesamten Plattform, was oft das bessere Angebot ist.
+
+**Bedenken Sie:** Wenn Sie regelmäßig Speicher-Boosts benötigen, bietet das **Plus-Abonnement (3,99 $/Monat)** unbegrenzten Speicher in allen Ihren Chats für den ganzen Monat—viel besserer Wert als mehrere Speicher-Boosts.
 
 **Am besten für:** Wenn Sie nur in einer einzigen Handlung perfekte Erinnerung benötigen und keine anderen Premium-Funktionen brauchen.
 
