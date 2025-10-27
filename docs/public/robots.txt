@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+
+# AICHIKI Network Sitemaps
+Sitemap: https://blog.aichiki.ai/sitemap.xml
+Sitemap: https://aichiki.ai/sitemap.xml
+Sitemap: https://aichiki.com/sitemap.xml
+Sitemap: https://help.aichiki.ai/sitemap.xml
+
+# AICHIKI Properties
+# App: https://aichiki.ai
+# Company: https://aichiki.com
+# Help: https://help.aichiki.ai

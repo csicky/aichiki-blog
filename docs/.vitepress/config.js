@@ -271,6 +271,10 @@ const generatedLocales = languages.reduce((acc, lang) => {
 export default defineConfig({
   title: "Aichiki's Blog",
 
+  sitemap: {
+    hostname: 'https://blog.aichiki.ai'
+  },
+
   markdown: {
     links: { externalAttrs: { target: '_blank', rel: 'noopener' } },
   },
