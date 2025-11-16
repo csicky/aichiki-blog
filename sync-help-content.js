@@ -27,7 +27,7 @@ import https from 'https'
 const __filename = fileURLToPath(import.meta.url),
   __dirname = path.dirname(__filename),
   API_BASE_URL = process.env.API_BASE_URL || 'https://localhost:3000',
-  HELP_SYNC_TOKEN = 'Ly7mZ8PsJec8bmC6qgduA_MgP5MZBnPPGngEFbzF',
+  HELP_SYNC_TOKEN = 'sa53sa35sf13sa3f1asf3a5f1f3a3kuuuikuik35ui1k3u',
   HELP_BASE_URL = process.env.HELP_BASE_URL || 'https://blog.aichiki.ai',
   DOCS_DIR = path.join(__dirname, './docs') // Adjust path as needed
 
