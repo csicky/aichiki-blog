@@ -55,7 +55,6 @@ Premium odemyká plný potenciál platformy s nejpokročilejšími AI modely a v
 
 - **Vše z úrovně Plus**
 - **AI modely vyšší kvality** - Přístup k našim nejchytřejším, nejsofistikovanějším konverzačním modelům
-- **Pokročilá nastavení a přizpůsobení chatu** - Hluboká kontrola nad chováním postav
 - **Prémiový rámeček profilu** - Speciální vizuální odznak pro váš profil ✨
 
 **Nejlepší pro:** Pravidelné uživatele, kteří chtějí kompletní zážitek AICHIKI s nejinteligentnějšími AI modely. Vaše podpora nám přímo pomáhá vyvíjet nové funkce a zlepšovat platformu.

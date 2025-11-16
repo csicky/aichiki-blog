@@ -55,7 +55,6 @@ Premium schaltet das volle Potenzial der Plattform mit den fortschrittlichsten K
 
 - **Alles aus der Plus-Stufe**
 - **Hochwertigere KI-Modelle** - Zugang zu unseren intelligentesten, ausgefeiltesten Konversationsmodellen
-- **Erweiterte Chat-Einstellungen und Anpassungen** - Tiefe Kontrolle über Charakterverhalten
 - **Premium-Profilrahmen** - Ein spezielles visuelles Abzeichen für Ihr Profil ✨
 
 **Am besten für:** Regelmäßige Nutzer, die das komplette AICHIKI-Erlebnis mit den intelligentesten KI-Modellen wünschen. Ihre Unterstützung hilft uns direkt bei der Entwicklung neuer Funktionen und Verbesserung der Plattform.

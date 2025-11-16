@@ -55,7 +55,6 @@ A Prémium feloldja a platform teljes potenciálját a legfejlettebb AI modellek
 
 - **Minden a Plus szintről**
 - **Magasabb minőségű AI modellek** - Hozzáférés a legokosabb, legkifinomultabb beszélgetési modelljeinkhez
-- **Fejlett csevegési beállítások és testreszabások** - Mélyreható kontroll a karakterek viselkedése felett
 - **Prémium profilkeret** - Speciális vizuális jelvény a profiljához ✨
 
 **Legmegfelelőbb:** Rendszeres felhasználóknak, akik a teljes AICHIKI élményt szeretnék a legintelligensebb AI modellekkel. Támogatása közvetlenül segít nekünk új funkciók fejlesztésében és a platform javításában.

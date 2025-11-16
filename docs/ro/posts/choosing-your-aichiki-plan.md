@@ -55,7 +55,6 @@ Premium deblochează potențialul complet al platformei cu cele mai avansate mod
 
 - **Tot din nivelul Plus**
 - **Modele AI de calitate superioară** - Acces la cele mai inteligente și sofisticate modele de conversație
-- **Setări și personalizări avansate de chat** - Control profund asupra comportamentului personajelor
 - **Ramă premium pentru profil** - Un ecuson vizual special pentru profilul dumneavoastră ✨
 
 **Cel mai bun pentru:** Utilizatorii obișnuiți care doresc experiența completă AICHIKI cu cele mai inteligente modele AI. Sprijinul dumneavoastră ne ajută direct să dezvoltăm noi funcționalități și să îmbunătățim platforma.

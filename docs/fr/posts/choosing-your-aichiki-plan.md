@@ -1,7 +1,7 @@
 ---
 title: 'Choisir Votre Plan AICHIKI: Un Guide Simple'
 date: 2024-07-30
-excerpt: 'Un guide clair pour vous aider à choisir le meilleur plan AICHIKI pour vos besoins. Explorez les niveaux Gratuit, Plus et Premium—trois chemins vers le même monde, chacun s ouvrant un peu plus.'
+excerpt: 'Un guide clair pour vous aider à choisir le meilleur plan AICHIKI pour vos besoins. Explorez les niveaux Gratuit, Plus et Premium—trois chemins vers le même monde, chacun ouvrant un peu plus.'
 published: true
 ---
 
@@ -55,7 +55,6 @@ Premium débloque tout le potentiel de la plateforme avec les modèles d'IA les 
 
 - **Tout du niveau Plus**
 - **Modèles d'IA de meilleure qualité** - Accès à nos modèles de conversation les plus intelligents et sophistiqués
-- **Paramètres et personnalisations avancés de chat** - Contrôle profond sur le comportement des personnages
 - **Cadre de profil premium** - Un badge visuel spécial pour votre profil ✨
 
 **Meilleur pour:** Les utilisateurs réguliers qui veulent l'expérience complète d'AICHIKI avec les modèles d'IA les plus intelligents. Votre soutien aide directement à développer de nouvelles fonctionnalités et à améliorer la plateforme.

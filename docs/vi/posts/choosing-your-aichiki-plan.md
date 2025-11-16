@@ -55,7 +55,6 @@ Premium mở khóa toàn bộ tiềm năng của nền tảng với các mô hì
 
 - **Mọi thứ từ cấp Plus**
 - **Các mô hình AI chất lượng cao hơn** - Truy cập vào các mô hình hội thoại thông minh và tinh vi nhất của chúng tôi
-- **Cài đặt và tùy chỉnh trò chuyện nâng cao** - Kiểm soát sâu sắc hành vi nhân vật
 - **Khung hồ sơ cao cấp** - Huy hiệu hình ảnh đặc biệt cho hồ sơ của bạn ✨
 
 **Tốt nhất cho:** Người dùng thường xuyên muốn trải nghiệm AICHIKI hoàn chỉnh với các mô hình AI thông minh nhất. Sự hỗ trợ của bạn giúp chúng tôi trực tiếp phát triển các tính năng mới và cải thiện nền tảng.

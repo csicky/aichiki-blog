@@ -55,7 +55,6 @@ Premium unlocks the platform's full potential with the most advanced AI models a
 
 - **Everything from Plus tier**
 - **Higher-quality AI models** - Access to our smartest, most sophisticated conversation models
-- **Advanced chat settings and customizations** - Deep control over character behavior
 - **Premium profile frame** - A special visual badge for your profile ✨
 
 **Best for:** Regular users who want the complete AICHIKI experience with the most intelligent AI models. Your support directly helps us develop new features and improve the platform.

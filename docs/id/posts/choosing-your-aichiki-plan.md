@@ -55,7 +55,6 @@ Premium membuka potensi penuh platform dengan model AI paling canggih dan semua 
 
 - **Semua dari tingkat Plus**
 - **Model AI berkualitas lebih tinggi** - Akses ke model percakapan paling cerdas dan canggih kami
-- **Pengaturan dan kustomisasi obrolan lanjutan** - Kontrol mendalam atas perilaku karakter
 - **Bingkai profil premium** - Lencana visual khusus untuk profil Anda ✨
 
 **Terbaik untuk:** Pengguna reguler yang menginginkan pengalaman AICHIKI lengkap dengan model AI paling cerdas. Dukungan Anda secara langsung membantu kami mengembangkan fitur baru dan meningkatkan platform.

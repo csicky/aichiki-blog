@@ -55,7 +55,6 @@ Premium ontgrendelt het volledige potentieel van het platform met de meest geava
 
 - **Alles van het Plus niveau**
 - **Hoogwaardige AI-modellen** - Toegang tot onze slimste, meest geavanceerde gespreksmodellen
-- **Geavanceerde chatinstellingen en aanpassingen** - Diepe controle over personagegedrag
 - **Premium profiellijst** - Een speciale visuele badge voor uw profiel ✨
 
 **Beste voor:** Regelmatige gebruikers die de volledige AICHIKI-ervaring willen met de meest intelligente AI-modellen. Uw steun helpt ons direct bij het ontwikkelen van nieuwe functies en het verbeteren van het platform.

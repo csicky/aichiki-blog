@@ -55,7 +55,6 @@ Premium, en gelişmiş AI modelleri ve tüm özelliklerle platformun tam potansi
 
 - **Plus seviyesinden her şey**
 - **Daha yüksek kaliteli AI modelleri** - En akıllı, en sofistike konuşma modellerimize erişim
-- **Gelişmiş sohbet ayarları ve özelleştirmeler** - Karakter davranışı üzerinde derin kontrol
 - **Premium profil çerçevesi** - Profiliniz için özel bir görsel rozet ✨
 
 **En İyi:** En akıllı AI modelleriyle tam AICHIKI deneyimini isteyen düzenli kullanıcılar için. Desteğiniz doğrudan yeni özellikler geliştirmemize ve platformu iyileştirmemize yardımcı olur.

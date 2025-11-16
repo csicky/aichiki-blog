@@ -6,7 +6,14 @@
       "Bash(npm run docs:build:*)",
       "Bash(Select-String -Pattern \"\\.md\")",
       "Bash(Select-Object -First 5)",
-      "Bash(node -e:*)"
+      "Bash(node -e:*)",
+      "Bash(powershell.exe -ExecutionPolicy Bypass -File clean-null-bytes.ps1)",
+      "Bash(node:*)",
+      "Bash(powershell.exe:*)",
+      "Bash(Get-Content \"D:\\aichiki\\aichiki-blog\\docs\\it\\posts\\choosing-your-aichiki-plan.md\" -Head 10 -Encoding UTF8)",
+      "Bash(DEBUG=vite:*)",
+      "Bash(npx vitepress:*)",
+      "Bash(npm run deploy:*)"
     ],
     "deny": [],
     "ask": []

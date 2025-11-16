@@ -55,7 +55,6 @@ Premium desbloquea el potencial completo de la plataforma con los modelos de IA 
 
 - **Todo del nivel Plus**
 - **Modelos de IA de mayor calidad** - Acceso a nuestros modelos de conversación más inteligentes y sofisticados
-- **Configuraciones y personalizaciones avanzadas de chat** - Control profundo sobre el comportamiento de los personajes
 - **Marco premium para perfil** - Una insignia visual especial para tu perfil ✨
 
 **Mejor para:** Usuarios regulares que quieren la experiencia completa de AICHIKI con los modelos de IA más inteligentes. Tu apoyo ayuda directamente a desarrollar nuevas características y mejorar la plataforma.
