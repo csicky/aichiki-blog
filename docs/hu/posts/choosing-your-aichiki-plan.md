@@ -1,88 +1,110 @@
 ---
 title: 'A Megfelelő AICHIKI Csomag Kiválasztása: Egy Egyszerű Útmutató'
 date: 2024-07-30
-excerpt: "Mivel többféle módon is használható az AICHIKI, szerettünk volna egy egyértelmű útmutatót készíteni, hogy segítsünk megtalálni a legmegfelelőbbet. Itt található az egyes tervek egyszerű bontása, mit tartalmaznak, és kinek a legmegfelelőbbek."
+excerpt: 'Egyértelmű útmutató, amely segít kiválasztani az Ön igényeinek legmegfelelőbb AICHIKI csomagot. Fedezze fel az Ingyenes, Plus és Prémium szinteket—három út ugyanabba a világba, mindegyik egy kicsit szélesebbre nyílik.'
+published: true
 ---
 
-# Az AICHIKI Terv Kiválasztása: Egy Egyszerű Útmutató
+# A Megfelelő AICHIKI Csomag Kiválasztása: Egy Egyszerű Útmutató
 
-Mivel többféle módon is használható az AICHIKI, szerettünk volna egy egyértelmű útmutatót készíteni, hogy segítsünk megtalálni a legmegfelelőbbet. Itt található az egyes tervek egyszerű bontása, mit tartalmaznak, és kinek a legmegfelelőbbek. Az elkövetkező árváltozásokat is bemutatjuk, hogy megalapozott döntést hozhasson.
+Az AICHIKI három szintet kínál, amelyek ugyanahhoz a kreatív világhoz adnak hozzáférést, mindegyik egy kicsit szélesebbre nyílik attól függően, hogy milyen messzire szeretné vinni történeteit. Íme, mit kínál minden csomag, és hogyan válassza ki azt, amely megfelel az Ön igényeinek.
 
-## Prémium Előfizetés: A Teljes AICHIKI Élményért
+## Ingyenes Szint: Minden, Amire Szüksége Van a Kezdéshez
 
-A Prémium előfizetés a rendszeres felhasználóink számára készült. Feloldja a platform teljes potenciálját, és a legköltséghatékonyabb lehetőség a gyakori használathoz.
+Az Ingyenes szint úgy lett tervezve, hogy teljes AICHIKI élményt nyújtson mindenféle költség nélkül. Azonnal belemerülhet a korlátlan történetmesélésbe.
 
-**Árak:**
+**Mit Tartalmaz:**
 
-*   **Jelenlegi (augusztus 31-ig):**
-    *   Havi: ~$10/hó
-    *   Éves: $100/év
-*   **Szeptember 1-től:**
-    *   Havi: ~$15/hó
-    *   Éves: ~$150/év
+- **Korlátlan csevegések** - Tetszőleges számú beszélgetést hozhat létre
+- **Korlátlan karakteralkotás** - Építse fel teljes karakterkasztját
+- **Korlátlan identitás létrehozása** - Váltson különböző személyek között
+- **Korlátlan képgenerálás** - Jelenítse meg karaktereit és jeleneteit
+- **A legtöbb csevegési téma feloldva** - Szabja személyre csevegési élményét
+- **Teljes hozzáférés a csevegési beállításokhoz** - Finomhangolja beszélgetéseit
+- **Csoportos szerepjáték** - Hívjon meg több karaktert ugyanabba a csevegésbe
+- **Hozzáférés magához AICHIKI-hez** - Kapjon segítséget beépített asszisztensünktől
+- **Korlátozott memória** - Csevegéseinek rövid távú memóriájuk van; a szerepjáték normálisan folytatódik, még akkor is, amikor a régebbi emlékek elhalványulnak
 
-**Bevezető Promóció:** Iratkozzon fel szeptember 1-je előtt, hogy rögzítse a jelenlegi árakat. A havi terv egy évre, az éves terv pedig két évre van rögzítve.
+**Legmegfelelőbb:** Bárki számára, aki el szeretné felfedezni az AICHIKI kreatív lehetőségeit elkötelezettség nélkül. Korlátlan alkotást és beszélgetést kap—az egyetlen korlátozás az, hogy mennyire messzire tud visszaemlékezni minden karakter.
 
-**Prémium Funkciók:**
+## Plus Szint: Korlátlan Memória a Történeteihez
 
-*   Hozzáférés a legjobb és legokosabb MI modelleinkhez
-*   Korlátlan memória minden beszélgetésében
-*   Fejlett csevegési beállítások és testreszabások
-*   Prémium keret a profilképéhez ✨
+A Plus tökéletes, ha szereti az ingyenes funkciókat, de azt szeretné, hogy karakterei mindent megjegyezzenek a beszélgetéseiből, függetlenül attól, hogy mennyi idővel ezelőtt történt.
 
-**Legjobb:** Ha rendszeresen használja az AICHIKI-t, a Prémium nyújtja a legjobb értéket és a teljes élményt. Támogatása közvetlenül segít nekünk a platform növekedésében és fejlesztésében.
+**Árazás:** 3,99 $/hó (plusz ÁFA országától függően)
 
-## Plus Előfizetés: Ingyenes Funkciók Korlátlan Memóriával
+**Mit Tartalmaz:**
 
-A Plus előfizetés hidat képez az ingyenes élmény és a Prémium között. Tökéletes, ha szereti az ingyenes funkcióinkat, de korlátlan memóriára van szüksége minden beszélgetésében.
+- **Minden az Ingyenes szintről**
+- **Korlátlan memória minden csevegésben** - A karakterek megjegyzik teljes közös történetüket
+- **Minden csevegési téma feloldva** - Hozzáférés minden vizuális testreszabási lehetőséghez
+- Ugyanazok az AI modellek, mint az Ingyenes szinten
 
-**Árak:**
+**Legmegfelelőbb:** Azoknak a felhasználóknak, akik azt szeretnék, hogy karaktereik tökéletes emlékezetet tartsanak fenn hosszú, összetett történetszálakban anélkül, hogy szükségük lenne a Prémium fejlett AI modelljeire. Ha rendszeresen vásárol Memória Gyorsítókat, a Plus sokkal jobb értéket kínál.
 
-*   Havi: 3,99 $/hó (plusz ÁFA országától függően)
+## Prémium Szint: A Teljes AICHIKI Élmény
 
-**Plus Funkciók:**
+A Prémium feloldja a platform teljes potenciálját a legfejlettebb AI modellekkel és minden funkcióval. Ez a legköltséghatékonyabb lehetőség rendszeres felhasználók számára, akik a legmélyebb, legintelligensebb beszélgetéseket szeretnék.
 
-*   Minden ingyenes funkció, amit már élvez
-*   Korlátlan memória minden beszélgetésében
-*   Hozzáférés ugyanazokhoz az AI modellekhez, mint az ingyenes szinten
+**Árazás:**
 
-**Legjobb:** Azoknak a felhasználóknak, akik elégedettek az ingyenes élménnyel, de korlátlan memóriát szeretnének anélkül, hogy szükségük lenne a Prémium fejlett modelljeire és funkcióira.
+- Havi: ~$15/hó
+- Éves: ~$150/év
 
-## Rugalmas Belépők és Gyorsítók
+**Mit Tartalmaz:**
 
-Nincs szüksége teljes előfizetésre? Ezek az opciók alkalmi vagy specifikus használatra szolgálnak.
+- **Minden a Plus szintről**
+- **Magasabb minőségű AI modellek** - Hozzáférés a legokosabb, legkifinomultabb beszélgetési modelljeinkhez
+- **Fejlett csevegési beállítások és testreszabások** - Mélyreható kontroll a karakterek viselkedése felett
+- **Prémium profilkeret** - Speciális vizuális jelvény a profiljához ✨
+
+**Legmegfelelőbb:** Rendszeres felhasználóknak, akik a teljes AICHIKI élményt szeretnék a legintelligensebb AI modellekkel. Támogatása közvetlenül segít nekünk új funkciók fejlesztésében és a platform javításában.
+
+## Rugalmas Lehetőségek: Napijegyek és Memória Gyorsítók
+
+Nincs szüksége teljes előfizetésre? Rugalmas lehetőségeket kínálunk alkalmi vagy specifikus használatra.
 
 ### Napijegy: 1 Nap ($1) vagy 3 Nap ($2)
 
-Rövid időre teljes Prémium hozzáférést kaphat. Két lehetőséget kínálunk:
+Rövid időre teljes Prémium hozzáférést kaphat:
 
-*   **1 Napos Belépő:** 1 dollárért 24 órás teljes Prémium hozzáférést kap.
-*   **3 Napos Belépő:** 2 dollárért három teljes napos hozzáférést kap. Nagyszerű ajánlat – két extra nap mindössze egy extra dollárért.
+- **1 Napos Jegy:** $1 értékben 24 óra teljes Prémium hozzáférés
+- **3 Napos Jegy:** $2 értékben három teljes nap—két extra nap csak egy extra dollárért
 
-Mindkét belépő tartalmazza a legjobb MI modelleket, korlátlan memóriát minden csevegésben, és minden testreszabást.
+Mindkét jegy tartalmazza a legjobb AI modelleket, korlátlan memóriát minden csevegésben és minden testreszabást.
 
-**Legjobb:** A Prémium funkciók kipróbálására vagy alkalmi, koncentrált munkamenetekhez.
+**Legmegfelelőbb:** A Prémium funkciók kipróbálásához vagy alkalmi, koncentrált munkamenetekhez.
 
 ### Memória Gyorsító ($1)
 
-Ez egy célzott frissítés egyetlen beszélgetéshez. 1 dollárért korlátlan memóriát kap egy csevegési szálban három napig.
+Célzott fejlesztés egyetlen beszélgetéshez. 1 dollárért korlátlan memóriát kap egy csevegési szálban három napig.
 
-**Fontos:** Ez a gyorsító **csak** egy csevegésben biztosít korlátlan memóriát; nem ad hozzáférést a Prémium modellekhez vagy más funkciókhoz. Mindössze 1 dollárral többért a **3 napos bérlet (2 dollár)** teljes Prémium hozzáférést biztosít az egész platformon ugyanannyi ideig, ami gyakran jobb ár-érték arányt képvisel.
+**Fontos:** Ez **csak** korlátlan memóriát biztosít egy csevegésben; nem ad hozzáférést a Prémium modellekhez vagy más funkciókhoz. Csak $1-ral többért a **3 Napos Jegy ($2)** teljes Prémium hozzáférést ad az egész platformon ugyanannyi ideig.
 
-**Fontolja meg:** Ha rendszeresen szükség van memória gyorsítókra, a **Plus előfizetés (3,99 $/hó)** korlátlan memóriát kínál minden csevegésében az egész hónapra—sokkal jobb érték, mint több memória gyorsító.
+**Fontolja meg:** Ha rendszeresen szüksége van memória gyorsítókra, a **Plus előfizetés ($3,99/hó)** korlátlan memóriát kínál minden csevegésében az egész hónapra—sokkal jobb érték.
 
-**Legjobb:** Ha csak egyetlen történetben van szüksége tökéletes visszaemlékezésre, és nincs szüksége más Prémium funkciókra.
+**Legmegfelelőbb:** Amikor csak egyetlen történetszálban van szüksége tökéletes visszaemlékezésre, és nincs szüksége más Prémium funkciókra.
+
+## Hogyan Hasonlíthatók Össze a Szintek
+
+Gondoljon rájuk úgy, mint három útra ugyanabba a világba, mindegyik egy kicsit szélesebbre nyílik:
+
+- **Ingyenes:** Építsen korlátlan világokat olyan karakterekkel, akiknek jó rövid távú memóriájuk van
+- **Plus:** Építsen korlátlan világokat olyan karakterekkel, akik soha nem felejtenek
+- **Prémium:** Építsen korlátlan világokat olyan karakterekkel, akik soha nem felejtenek és a legkifinomultabb AI elmével rendelkeznek
+
+Minden szint lehetővé teszi a korlátlan alkotást. A különbség az, hogy a karakterek mennyire mélyen tartják meg történeteit, és mennyire erősek a mögöttük álló modellek. Ön választja meg, milyen messzire szeretné vinni az élményt.
 
 ## Fontos Megjegyzés az Árakról és az ÁFÁ-ról
 
-Kérjük, vegye figyelembe, hogy a felsorolt árak alapárak. Országától függően a pénztárnál hozzáadódhat az általános forgalmi adó (ÁFA) vagy más helyi adók. A végleges árat a fizetés megerősítése előtt fogja látni.
+A felsorolt árak mind alapárak. Országától függően a pénztárnál hozzáadódhat az általános forgalmi adó (ÁFA) vagy más helyi adók. A végleges árat a fizetés megerősítése előtt látni fogja.
 
 ## A Mi Megközelítésünk
 
-Különböző terveket kínálunk, mert tudjuk, hogy mindenki másképp használja az AICHIKI-t. Célunk, hogy rugalmas lehetőségeket biztosítsunk, amelyek megfelelnek a használati stílusának.
+Különböző csomagokat kínálunk, mert tudjuk, hogy mindenki másképp használja az AICHIKI-t. Célunk, hogy rugalmas lehetőségeket biztosítsunk, amelyek megfelelnek használati stílusának.
 
-Mi egy kis, független csapat vagyunk, aki ezt a platformot építi. Támogatása közvetlenül fedezi az elsődleges költségeinket, mint például a fejlett MI modelleket és a szerver infrastruktúrát, és lehetővé teszi számunkra, hogy folyamatosan új funkciókat fejlesszünk. Nagyra értékeljük közösségünk minden tagját, akár az ingyenes élményért van itt, akár a frissítés mellett dönt.
+Egy kis, független csapat vagyunk, amely ezt a platformot építi. Támogatása közvetlenül fedezi elsődleges költségeinket, mint például a fejlett AI modelleket és a szerver infrastruktúrát, és lehetővé teszi számunkra az új funkciók folyamatos fejlesztését. Nagyra értékeljük közösségünk minden tagját, akár az ingyenes élményért van itt, akár úgy dönt, hogy frissít.
 
 Köszönjük, hogy elolvasta, és örülünk, hogy velünk van.
 
-— Az AICHIKI Csapat
+— Az AICHIKI Csapat (Rudolf & Edith)

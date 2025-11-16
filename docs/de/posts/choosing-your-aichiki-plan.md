@@ -1,88 +1,110 @@
 ---
-title: 'Das Richtige AICHIKI-Paket Auswählen: Eine Einfache Anleitung'
+title: 'Ihren AICHIKI-Plan wählen: Eine einfache Anleitung'
 date: 2024-07-30
-excerpt: "Da es mehrere Möglichkeiten gibt, AICHIKI zu nutzen, wollten wir eine klare Anleitung erstellen, die Ihnen hilft, die beste Lösung für Sie zu finden. Hier ist eine einfache Aufschlüsselung jedes Plans, was er beinhaltet und für wen er am besten geeignet ist."
+excerpt: 'Eine klare Anleitung, um den besten AICHIKI-Plan für Ihre Bedürfnisse zu wählen. Erkunden Sie Free, Plus und Premium—drei Wege in dieselbe Welt, jeder öffnet sich ein wenig weiter.'
+published: true
 ---
 
-# Wählen Sie Ihren AICHIKI-Plan: Eine einfache Anleitung
+# Ihren AICHIKI-Plan wählen: Eine einfache Anleitung
 
-Da es mehrere Möglichkeiten gibt, AICHIKI zu nutzen, wollten wir eine klare Anleitung erstellen, die Ihnen hilft, die beste Lösung für Sie zu finden. Hier ist eine einfache Aufschlüsselung jedes Plans, was er beinhaltet und für wen er am besten geeignet ist. Wir werden auch die bevorstehenden Preisänderungen behandeln, damit Sie eine fundierte Entscheidung treffen können.
+AICHIKI bietet drei Stufen, die Ihnen Zugang zur selben kreativen Welt geben, wobei sich jede ein wenig weiter öffnet, je nachdem, wie weit Sie Ihre Geschichten nehmen möchten. Hier ist, was jeder Plan bietet und wie Sie denjenigen auswählen, der zu Ihren Bedürfnissen passt.
 
-## Premium-Abonnement: Für das volle AICHIKI-Erlebnis
+## Free-Stufe: Alles, was Sie zum Erstellen benötigen
 
-Das Premium-Abonnement ist für unsere regelmäßigen Nutzer gedacht. Es schaltet das volle Potenzial der Plattform frei und ist die kostengünstigste Option für eine häufige Nutzung.
+Die Free-Stufe ist so konzipiert, dass Sie ohne Kosten ein komplettes AICHIKI-Erlebnis erhalten. Sie können sofort in unbegrenztes Geschichtenerzählen eintauchen.
 
-**Preise:**
+**Was enthalten ist:**
 
-*   **Aktuell (bis 31. August):**
-    *   Monatlich: ~$10/Monat
-    *   Jährlich: $100/Jahr
-*   **Ab 1. September:**
-    *   Monatlich: ~$15/Monat
-    *   Jährlich: ~$150/Jahr
+- **Unbegrenzte Chats** - Erstellen Sie so viele Gespräche, wie Sie möchten
+- **Unbegrenzte Charaktererstellung** - Bauen Sie Ihre gesamte Besetzung von Charakteren auf
+- **Unbegrenzte Identitätserstellung** - Wechseln Sie zwischen verschiedenen Personas
+- **Unbegrenzte Bildgenerierung** - Visualisieren Sie Ihre Charaktere und Szenen
+- **Die meisten Chat-Themen freigeschaltet** - Passen Sie Ihr Chat-Erlebnis an
+- **Voller Zugriff auf Chat-Einstellungen** - Feinabstimmung Ihrer Gespräche
+- **Gruppen-Rollenspiel** - Laden Sie mehrere Charaktere in denselben Chat ein
+- **Zugang zu AICHIKI selbst** - Holen Sie sich Hilfe von unserer eingebauten Assistentin
+- **Begrenzter Speicher** - Ihre Chats haben Kurzzeitgedächtnis; das Rollenspiel läuft normal weiter, auch wenn ältere Erinnerungen verblassen
 
-**Einführungsangebot:** Abonnieren Sie vor dem 1. September, um sich die aktuellen Preise zu sichern. Der Monatsplan ist für ein Jahr und der Jahresplan für zwei Jahre gültig.
+**Am besten für:** Jeden, der AICHIKIs kreative Möglichkeiten ohne Verpflichtung erkunden möchte. Sie erhalten unbegrenzte Erstellung und Konversation—die einzige Einschränkung ist, wie weit sich jeder Charakter zurückerinnern kann.
 
-**Premium-Funktionen:**
+## Plus-Stufe: Unbegrenzter Speicher für Ihre Geschichten
 
-*   Zugang zu unseren besten und intelligentesten KI-Modellen
-*   Unbegrenzter Speicherplatz für alle Ihre Konversationen
-*   Erweiterte Chat-Einstellungen und Anpassungen
-*   Ein Premium-Rahmen für Ihr Profilbild ✨
+Plus ist perfekt, wenn Sie die kostenlosen Funktionen lieben, aber möchten, dass sich Ihre Charaktere an alles aus Ihren Gesprächen erinnern, egal wie lange es her ist.
 
-**Am besten für:** Wenn Sie AICHIKI regelmäßig nutzen, bietet Premium den besten Wert und das umfassendste Erlebnis. Ihre Unterstützung hilft uns auch direkt, die Plattform zu erweitern und zu verbessern.
+**Preis:** 3,99 $/Monat (plus MwSt. je nach Land)
 
-## Plus-Abonnement: Kostenlose Funktionen mit unbegrenztem Speicher
+**Was enthalten ist:**
 
-Das Plus-Abonnement schließt die Lücke zwischen unserem kostenlosen Erlebnis und Premium. Es ist perfekt, wenn Sie unsere kostenlosen Funktionen lieben, aber unbegrenzten Speicher in allen Ihren Gesprächen benötigen.
+- **Alles aus der Free-Stufe**
+- **Unbegrenzter Speicher in allen Chats** - Charaktere erinnern sich an Ihre gesamte gemeinsame Geschichte
+- **Alle Chat-Themen freigeschaltet** - Zugriff auf jede visuelle Anpassungsoption
+- Dieselben KI-Modelle wie in der Free-Stufe
 
-**Preise:**
+**Am besten für:** Nutzer, die möchten, dass ihre Charaktere perfekte Erinnerung über lange, komplexe Handlungsstränge beibehalten, ohne die erweiterten KI-Modelle von Premium zu benötigen. Wenn Sie regelmäßig Speicher-Boosts kaufen, bietet Plus viel besseren Wert.
 
-*   Monatlich: 3,99 $/Monat (plus MwSt. je nach Land)
+## Premium-Stufe: Das volle AICHIKI-Erlebnis
 
-**Plus-Funktionen:**
+Premium schaltet das volle Potenzial der Plattform mit den fortschrittlichsten KI-Modellen und allen Funktionen frei. Es ist unsere kostengünstigste Option für regelmäßige Nutzer, die die tiefsten, intelligentesten Gespräche wünschen.
 
-*   Alle kostenlosen Funktionen, die Sie bereits schätzen
-*   Unbegrenzter Speicher in allen Ihren Gesprächen
-*   Zugang zu denselben KI-Modellen wie im kostenlosen Tarif
+**Preis:**
 
-**Am besten für:** Nutzer, die mit dem kostenlosen Erlebnis zufrieden sind, aber unbegrenzten Speicher benötigen, ohne die erweiterten Modelle und Funktionen von Premium zu brauchen.
+- Monatlich: ~15 $/Monat
+- Jährlich: ~150 $/Jahr
 
-## Flexible Pässe & Boosts
+**Was enthalten ist:**
 
-Benötigen Sie kein vollständiges Abonnement? Diese Optionen sind für eine gelegentliche oder spezifische Nutzung gedacht.
+- **Alles aus der Plus-Stufe**
+- **Hochwertigere KI-Modelle** - Zugang zu unseren intelligentesten, ausgefeiltesten Konversationsmodellen
+- **Erweiterte Chat-Einstellungen und Anpassungen** - Tiefe Kontrolle über Charakterverhalten
+- **Premium-Profilrahmen** - Ein spezielles visuelles Abzeichen für Ihr Profil ✨
 
-### Tagespass: 1 Tag ($1) oder 3 Tage ($2)
+**Am besten für:** Regelmäßige Nutzer, die das komplette AICHIKI-Erlebnis mit den intelligentesten KI-Modellen wünschen. Ihre Unterstützung hilft uns direkt bei der Entwicklung neuer Funktionen und Verbesserung der Plattform.
 
-Erhalten Sie für einen kurzen Zeitraum vollen Premium-Zugang. Wir bieten zwei Optionen an:
+## Flexible Optionen: Tagespässe & Speicher-Boosts
 
-*   **1-Tages-Pass:** Für $1 erhalten Sie 24 Stunden vollen Premium-Zugang.
-*   **3-Tage-Pass:** Für $2 erhalten Sie drei volle Tage Zugang. Ein tolles Angebot – zwei zusätzliche Tage für nur einen zusätzlichen Dollar.
+Brauchen Sie kein vollständiges Abonnement? Wir bieten flexible Optionen für gelegentliche oder spezifische Nutzung.
 
-Beide Pässe beinhalten die besten KI-Modelle, unbegrenzten Speicherplatz in allen Chats und alle Anpassungen.
+### Tagespass: 1 Tag (1 $) oder 3 Tage (2 $)
 
-**Am besten für:** Das Ausprobieren von Premium-Funktionen oder für gelegentliche, gezielte Sitzungen.
+Erhalten Sie für einen kurzen Zeitraum vollen Premium-Zugang:
 
-### Speicher-Boost ($1)
+- **1-Tages-Pass:** 1 $ für 24 Stunden kompletten Premium-Zugang
+- **3-Tage-Pass:** 2 $ für drei volle Tage—zwei zusätzliche Tage für nur einen zusätzlichen Dollar
 
-Dies ist ein gezieltes Upgrade für eine einzelne Konversation. Für $1 erhalten Sie unbegrenzten Speicherplatz in einem Chat-Thread für drei Tage.
+Beide Pässe beinhalten Top-KI-Modelle, unbegrenzten Speicher in allen Chats und alle Anpassungen.
 
-**Wichtig:** Dieser Boost bietet **nur** unbegrenzten Speicher in einem Chat; er gewährt keinen Zugriff auf Premium-Modelle oder andere Funktionen. Für nur $1 mehr bietet der **3-Tage-Pass ($2)** für den gleichen Zeitraum vollen Premium-Zugang auf der gesamten Plattform, was oft das bessere Angebot ist.
+**Am besten für:** Ausprobieren von Premium-Funktionen oder für gelegentliche, fokussierte Sitzungen.
 
-**Bedenken Sie:** Wenn Sie regelmäßig Speicher-Boosts benötigen, bietet das **Plus-Abonnement (3,99 $/Monat)** unbegrenzten Speicher in allen Ihren Chats für den ganzen Monat—viel besserer Wert als mehrere Speicher-Boosts.
+### Speicher-Boost (1 $)
 
-**Am besten für:** Wenn Sie nur in einer einzigen Handlung perfekte Erinnerung benötigen und keine anderen Premium-Funktionen brauchen.
+Ein gezieltes Upgrade für eine einzelne Konversation. Für 1 $ erhalten Sie unbegrenzten Speicher in einem Chat-Thread für drei Tage.
+
+**Wichtig:** Dies bietet **nur** unbegrenzten Speicher in einem Chat; es gewährt keinen Zugriff auf Premium-Modelle oder andere Funktionen. Für nur 1 $ mehr bietet der **3-Tage-Pass (2 $)** vollen Premium-Zugang auf der gesamten Plattform für denselben Zeitraum.
+
+**Bedenken Sie:** Wenn Sie regelmäßig Speicher-Boosts benötigen, bietet das **Plus-Abonnement (3,99 $/Monat)** unbegrenzten Speicher in allen Chats für den gesamten Monat—viel besserer Wert.
+
+**Am besten für:** Wenn Sie nur perfekte Erinnerung in einer einzigen Handlung benötigen und keine anderen Premium-Funktionen brauchen.
+
+## Wie sich die Stufen vergleichen
+
+Denken Sie daran als drei Wege in dieselbe Welt, jeder öffnet sich ein wenig weiter:
+
+- **Free:** Bauen Sie unbegrenzte Welten mit Charakteren, die gutes Kurzzeitgedächtnis haben
+- **Plus:** Bauen Sie unbegrenzte Welten mit Charakteren, die nie vergessen
+- **Premium:** Bauen Sie unbegrenzte Welten mit Charakteren, die nie vergessen und die ausgefeiltesten KI-Köpfe haben
+
+Jede Stufe lässt Sie ohne Grenzen erschaffen. Der Unterschied liegt darin, wie tief Charaktere Ihre Geschichten halten und wie stark die Modelle hinter ihnen sind. Sie wählen, wie weit Sie das Erlebnis gehen lassen möchten.
 
 ## Wichtiger Hinweis zu Preisen & Mehrwertsteuer
 
-Bitte beachten Sie, dass alle angegebenen Preise Grundpreise sind. Je nach Ihrem Land können an der Kasse Mehrwertsteuer (VAT) oder andere lokale Steuern hinzukommen. Der Endpreis wird angezeigt, bevor Sie Ihre Zahlung bestätigen.
+Alle aufgeführten Preise sind Grundpreise. Je nach Land können beim Checkout Mehrwertsteuer (MwSt.) oder andere lokale Steuern hinzugefügt werden. Der Endpreis wird angezeigt, bevor Sie Ihre Zahlung bestätigen.
 
 ## Unser Ansatz
 
 Wir bieten verschiedene Pläne an, weil wir wissen, dass jeder AICHIKI anders nutzt. Unser Ziel ist es, flexible Optionen anzubieten, die zu Ihrem Nutzungsstil passen.
 
-Wir sind ein kleines, unabhängiges Team, das diese Plattform aufbaut. Ihre Unterstützung deckt direkt unsere Hauptkosten, wie die fortschrittlichen KI-Modelle und die Serverinfrastruktur, und ermöglicht es uns, weiterhin neue Funktionen zu entwickeln. Wir schätzen jedes Mitglied unserer Gemeinschaft, egal ob Sie hier für das kostenlose Erlebnis sind oder sich für ein Upgrade entscheiden.
+Wir sind ein kleines, unabhängiges Team, das diese Plattform aufbaut. Ihre Unterstützung deckt direkt unsere Hauptkosten wie die fortschrittlichen KI-Modelle und Serverinfrastruktur und ermöglicht es uns, weiterhin neue Funktionen zu entwickeln. Wir schätzen jedes Mitglied unserer Gemeinschaft, egal ob Sie für das kostenlose Erlebnis hier sind oder sich für ein Upgrade entscheiden.
 
 Danke fürs Lesen, und wir freuen uns, Sie bei uns zu haben.
 
-— Das AICHIKI-Team
+— Das AICHIKI-Team (Rudolf & Edith)

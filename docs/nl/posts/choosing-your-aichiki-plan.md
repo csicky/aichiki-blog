@@ -1,71 +1,110 @@
 ---
-title: "Uw AICHIKI Pakket Kiezen: Een Eenvoudige Gids"
-date: 2024-08-26
-author: "AICHIKI Team"
-excerpt: "Vind het perfecte AICHIKI pakket voor uw AI-platform behoeften. Vergelijk Premium abonnement, Day Passes en Memory Boost opties."
+title: 'Uw AICHIKI Plan Kiezen: Een Eenvoudige Gids'
+date: 2024-07-30
+excerpt: 'Een duidelijke gids om u te helpen het beste AICHIKI plan voor uw behoeften te kiezen. Verken de Gratis, Plus en Premium niveaus—drie wegen naar dezelfde wereld, elk opent een beetje wijder.'
+published: true
 ---
 
-# Uw AICHIKI Pakket Kiezen: Een Eenvoudige Gids
+# Uw AICHIKI Plan Kiezen: Een Eenvoudige Gids
 
-AICHIKI biedt meerdere pakketopties voor elke behoefte en elk budget. Wij zijn toegewijd aan het leveren van de beste AI-ervaring tegen betaalbare prijzen. Hier is een overzicht van de beschikbare pakketten.
+AICHIKI biedt drie niveaus die u toegang geven tot dezelfde creatieve wereld, elk opent een beetje wijder afhankelijk van hoe ver u uw verhalen wilt brengen. Hier is wat elk plan biedt en hoe u degene kiest die bij uw behoeften past.
 
-## Waarom AICHIKI Kiezen?
+## Gratis Niveau: Alles Wat U Nodig Hebt om te Beginnen met Creëren
 
-Met AICHIKI krijgt u toegang tot de nieuwste en krachtigste AI-modellen zoals Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro, o1-preview en o1-mini. Het is uw one-stop shop voor de beste AI-technologie.
+Het Gratis niveau is ontworpen om u een volledige AICHIKI-ervaring te bieden zonder kosten. U kunt vanaf het begin in onbeperkt verhalen vertellen duiken.
 
-## Plus Pakket - $3.99/maand (+BTW)
+**Wat Is Inbegrepen:**
 
-Het Plus pakket biedt alle gratis functies plus onbeperkt geheugen in alle chats:
+- **Onbeperkte chats** - Maak zoveel gesprekken als u wilt
+- **Onbeperkt personages maken** - Bouw uw volledige cast van personages
+- **Onbeperkt identiteiten maken** - Schakel tussen verschillende persona's
+- **Onbeperkt afbeeldingen genereren** - Visualiseer uw personages en scènes
+- **Meeste chatthema's ontgrendeld** - Personaliseer uw chatervaring
+- **Volledige toegang tot chatinstellingen** - Verfijn uw gesprekken
+- **Groepsrollenspel** - Nodig meerdere personages uit in dezelfde chat
+- **Toegang tot AICHIKI zelf** - Krijg hulp van onze ingebouwde assistent
+- **Beperkt geheugen** - Uw chats hebben kortetermijngeheugen; rollenspel gaat normaal verder, zelfs wanneer oudere herinneringen vervagen
 
-- **Prijs**: Slechts $3.99/maand (+BTW waar van toepassing)
-- **Geheugen**: Onbeperkt geheugen in alle chats
-- **Modellen**: Gratis tier AI-modellen
-- **Best voor**: Regelmatige geheugenbehoeften zonder Premium modellen nodig te hebben
+**Beste voor:** Iedereen die de creatieve mogelijkheden van AICHIKI wil verkennen zonder verplichting. U krijgt onbeperkt creëren en converseren—de enige beperking is hoe ver terug elk personage zich kan herinneren.
 
-Als u wilt dat chats uw context regelmatig onthouden maar de meest geavanceerde AI-modellen niet nodig heeft, is het Plus pakket veel economischer dan herhaaldelijk Memory Boosts kopen.
+## Plus Niveau: Onbeperkt Geheugen voor Uw Verhalen
 
-## Premium Abonnement
+Plus is perfect als u van de gratis functies houdt, maar wilt dat uw personages alles van uw gesprekken onthouden, ongeacht hoe lang geleden het gebeurde.
 
-Ons vlaggenschip pakket biedt volledige toegang tot de beste AI-ervaring:
+**Prijzen:** €3,99/maand (plus BTW afhankelijk van uw land)
 
-- **Huidige prijs**: $10/maand of $100/jaar
-- **Na 1 september**: $15/maand of $150/jaar
-- **Omvat**:
-  - Alle Premium AI-modellen (Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro, o1-preview, o1-mini)
-  - Onbeperkt geheugen in alle chats
-  - Prioritaire ondersteuning
-  - Vroege toegang tot nieuwe functies
+**Wat Is Inbegrepen:**
 
-## Day Passes - Korte Termijn Toegang
+- **Alles van het Gratis niveau**
+- **Onbeperkt geheugen in alle chats** - Personages onthouden uw volledige gedeelde geschiedenis
+- **Alle chatthema's ontgrendeld** - Toegang tot elke visuele aanpassingsoptie
+- Dezelfde AI-modellen als het Gratis niveau
 
-Heeft u Premium functies nodig voor een korte periode? Day Passes zijn perfect:
+**Beste voor:** Gebruikers die willen dat hun personages perfecte herinnering behouden door lange, complexe verhaallijnen zonder de geavanceerde AI-modellen van Premium nodig te hebben. Als u regelmatig Memory Boosts koopt, biedt Plus veel betere waarde.
 
-- **1-Day Pass**: $1 - Volledige Premium toegang voor 24 uur
-- **3-Day Pass**: $2 - Volledige Premium toegang voor 72 uur
+## Premium Niveau: De Volledige AICHIKI Ervaring
 
-## Memory Boost - Voor Specifieke Chat
+Premium ontgrendelt het volledige potentieel van het platform met de meest geavanceerde AI-modellen en alle functies. Het is onze meest kosteneffectieve optie voor regelmatige gebruikers die de diepste, meest intelligente gesprekken willen.
 
-Heeft u uitgebreid geheugen nodig in een specifieke chat?
+**Prijzen:**
 
-- **Prijs**: $1
-- **Duur**: 3 dagen
-- **Omvat**: Onbeperkt geheugen in één chat
-- **Belangrijk**: Dit omvat geen toegang tot Premium modellen
+- Maandelijks: ~€15/maand
+- Jaarlijks: ~€150/jaar
 
-**Opmerking**: Memory Boost biedt alleen geheugen in één chat en omvat geen Premium AI-modellen. Voor regelmatige geheugenbehoeften biedt het Plus pakket ($3.99/maand) betere waarde. Voor volledige Premium toegang is de 3-Day Pass ($2) een betere optie.
+**Wat Is Inbegrepen:**
 
-## Speciale Lanceringsactie
+- **Alles van het Plus niveau**
+- **Hoogwaardige AI-modellen** - Toegang tot onze slimste, meest geavanceerde gespreksmodellen
+- **Geavanceerde chatinstellingen en aanpassingen** - Diepe controle over personagegedrag
+- **Premium profiellijst** - Een speciale visuele badge voor uw profiel ✨
 
-**Handel voor 1 september!** Om huidige tarieven vast te zetten voor de prijsverhoging:
+**Beste voor:** Regelmatige gebruikers die de volledige AICHIKI-ervaring willen met de meest intelligente AI-modellen. Uw steun helpt ons direct bij het ontwikkelen van nieuwe functies en het verbeteren van het platform.
 
-1. Koop nu een Premium abonnement
-2. Behoud de huidige prijs tot uw volgende factureringsdatum
-3. Bespaar $5/maand, $50/jaar op lange termijn
+## Flexibele Opties: Dagpassen en Geheugenboosts
 
-## Klaar om te Beginnen?
+Geen volledige abonnement nodig? We bieden flexibele opties voor incidenteel of specifiek gebruik.
 
-Bezoek [AICHIKI](https://aichiki.com) en start vandaag uw AI-reis. Welk pakket u ook kiest, wij garanderen de beste AI-technologie en uitstekende gebruikerservaring.
+### Dagpas: 1 Dag ($1) of 3 Dagen ($2)
 
----
+Krijg volledige Premium-toegang voor een korte periode:
 
-*Vragen? Ons ondersteuningsteam staat klaar om te helpen. Aarzel niet om contact op te nemen via hello@aichiki.com.*
+- **1-Dag Pas:** $1 voor 24 uur volledige Premium-toegang
+- **3-Dagen Pas:** $2 voor drie volledige dagen—twee extra dagen voor slechts één extra dollar
+
+Beide passen bevatten top AI-modellen, onbeperkt geheugen in alle chats en alle aanpassingen.
+
+**Beste voor:** Premium-functies uitproberen of voor incidentele, gerichte sessies.
+
+### Geheugenboost ($1)
+
+Een gerichte upgrade voor een enkel gesprek. Voor $1 krijgt u onbeperkt geheugen in één chatthread voor drie dagen.
+
+**Belangrijk:** Dit biedt **alleen** onbeperkt geheugen in één chat; het verleent geen toegang tot Premium-modellen of andere functies. Voor slechts $1 meer geeft de **3-Dagen Pas ($2)** u volledige Premium-toegang op het hele platform voor dezelfde duur.
+
+**Overweeg dit:** Als u regelmatig geheugenboosts nodig hebt, biedt het **Plus-abonnement ($3,99/maand)** onbeperkt geheugen in al uw chats voor de hele maand—veel betere waarde.
+
+**Beste voor:** Wanneer u alleen perfecte herinnering nodig hebt in één verhaallijn en geen andere Premium-functies nodig hebt.
+
+## Hoe de Niveaus Zich Verhouden
+
+Denk eraan als drie wegen naar dezelfde wereld, elk opent een beetje wijder:
+
+- **Gratis:** Bouw onbeperkte werelden met personages met goed kortetermijngeheugen
+- **Plus:** Bouw onbeperkte werelden met personages die nooit vergeten
+- **Premium:** Bouw onbeperkte werelden met personages die nooit vergeten en de meest geavanceerde AI-geesten hebben
+
+Elk niveau stelt u in staat om zonder limieten te creëren. Het verschil is hoe diep personages uw verhalen vasthouden en hoe sterk de modellen erachter zijn. U kiest hoe ver u de ervaring wilt laten reiken.
+
+## Belangrijke Opmerking over Prijzen en BTW
+
+Alle vermelde prijzen zijn basisprijzen. Afhankelijk van uw land kunnen bij het afrekenen Belasting over de Toegevoegde Waarde (BTW) of andere lokale belastingen worden toegevoegd. De eindprijs wordt weergegeven voordat u uw betaling bevestigt.
+
+## Onze Aanpak
+
+We bieden verschillende plannen omdat we weten dat iedereen AICHIKI anders gebruikt. Ons doel is om flexibele opties te bieden die passen bij uw gebruiksstijl.
+
+We zijn een klein, onafhankelijk team dat dit platform bouwt. Uw steun dekt direct onze primaire kosten, zoals de geavanceerde AI-modellen en serverinfrastructuur, en stelt ons in staat om nieuwe functies te blijven ontwikkelen. We waarderen elk lid van onze gemeenschap, of u nu hier bent voor de gratis ervaring of ervoor kiest om te upgraden.
+
+Bedankt voor het lezen, en we zijn blij dat u bij ons bent.
+
+— Het AICHIKI Team (Rudolf & Edith)

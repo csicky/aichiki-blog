@@ -1,71 +1,110 @@
 ---
-title: "Wybór Twojego Pakietu AICHIKI: Prosty Przewodnik"
-date: 2024-08-26
-author: "AICHIKI Team"
-excerpt: "Znajdź idealny pakiet AICHIKI dla Twoich potrzeb platformy AI. Porównaj opcje subskrypcji Premium, Day Passes i Memory Boost."
+title: 'Wybór Twojego Planu AICHIKI: Prosty Przewodnik'
+date: 2024-07-30
+excerpt: 'Przejrzysty przewodnik, który pomoże Ci wybrać najlepszy plan AICHIKI dla Twoich potrzeb. Odkryj poziomy Darmowy, Plus i Premium—trzy drogi do tego samego świata, każda otwiera się nieco szerzej.'
+published: true
 ---
 
-# Wybór Twojego Pakietu AICHIKI: Prosty Przewodnik
+# Wybór Twojego Planu AICHIKI: Prosty Przewodnik
 
-AICHIKI oferuje wiele opcji pakietów dla każdej potrzeby i budżetu. Jesteśmy zobowiązani do zapewnienia najlepszego doświadczenia AI w przystępnych cenach. Oto przegląd dostępnych pakietów.
+AICHIKI oferuje trzy poziomy, które dają dostęp do tego samego kreatywnego świata, każdy otwiera się nieco szerzej w zależności od tego, jak daleko chcesz zabrać swoje historie. Oto co oferuje każdy plan i jak wybrać ten, który pasuje do Twoich potrzeb.
 
-## Dlaczego Wybrać AICHIKI?
+## Poziom Darmowy: Wszystko, Czego Potrzebujesz, Aby Zacząć Tworzyć
 
-Z AICHIKI uzyskujesz dostęp do najnowszych i najpotężniejszych modeli AI, takich jak Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro, o1-preview i o1-mini. To Twój punkt kompleksowej obsługi dla najlepszej technologii AI.
+Poziom Darmowy został zaprojektowany, aby dać Ci pełne doświadczenie AICHIKI bez żadnych kosztów. Możesz zanurzyć się w nieograniczone opowiadanie historii od samego początku.
 
-## Pakiet Plus - $3.99/miesiąc (+VAT)
+**Co Jest Zawarte:**
 
-Pakiet Plus oferuje wszystkie darmowe funkcje plus nieograniczoną pamięć we wszystkich czatach:
+- **Nieograniczone czaty** - Twórz tyle rozmów, ile chcesz
+- **Nieograniczone tworzenie postaci** - Zbuduj całą obsadę swoich postaci
+- **Nieograniczone tworzenie tożsamości** - Przełączaj się między różnymi personami
+- **Nieograniczone generowanie obrazów** - Wizualizuj swoje postacie i sceny
+- **Większość motywów czatu odblokowana** - Dostosuj swoje doświadczenie czatu
+- **Pełny dostęp do ustawień czatu** - Dostosuj swoje rozmowy
+- **Grupowa gra fabularna** - Zaproś wiele postaci do tego samego czatu
+- **Dostęp do samej AICHIKI** - Uzyskaj pomoc od naszego wbudowanego asystenta
+- **Ograniczona pamięć** - Twoje czaty mają pamięć krótkoterminową; gra fabularna trwa normalnie, nawet gdy starsze wspomnienia zanikają
 
-- **Cena**: Tylko $3.99/miesiąc (+VAT gdzie dotyczy)
-- **Pamięć**: Nieograniczona pamięć we wszystkich czatach
-- **Modele**: Modele AI darmowego poziomu
-- **Najlepszy dla**: Regularnych potrzeb pamięciowych bez potrzeby modeli Premium
+**Najlepsze dla:** Każdego, kto chce odkrywać kreatywne możliwości AICHIKI bez zobowiązań. Otrzymujesz nieograniczone tworzenie i konwersację—jedynym ograniczeniem jest to, jak daleko wstecz każda postać może pamiętać.
 
-Jeśli chcesz, aby czaty regularnie pamiętały Twój kontekst, ale nie potrzebujesz najnowocześniejszych modeli AI, pakiet Plus jest znacznie bardziej ekonomiczny niż wielokrotne kupowanie Memory Boosts.
+## Poziom Plus: Nieograniczona Pamięć dla Twoich Historii
 
-## Subskrypcja Premium
+Plus jest idealny, jeśli kochasz darmowe funkcje, ale chcesz, aby Twoje postacie pamiętały wszystko z Twoich rozmów, bez względu na to, jak dawno to się wydarzyło.
 
-Nasz flagowy pakiet oferuje pełny dostęp do najlepszego doświadczenia AI:
+**Ceny:** 3,99 USD/miesiąc (plus VAT w zależności od Twojego kraju)
 
-- **Obecna cena**: $10/miesiąc lub $100/rok
-- **Po 1 września**: $15/miesiąc lub $150/rok
-- **Zawiera**:
-  - Wszystkie modele AI Premium (Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro, o1-preview, o1-mini)
-  - Nieograniczona pamięć we wszystkich czatach
-  - Priorytetowe wsparcie
-  - Wczesny dostęp do nowych funkcji
+**Co Jest Zawarte:**
 
-## Day Passes - Krótkoterminowy Dostęp
+- **Wszystko z poziomu Darmowego**
+- **Nieograniczona pamięć we wszystkich czatach** - Postacie pamiętają całą Twoją wspólną historię
+- **Wszystkie motywy czatu odblokowane** - Dostęp do każdej opcji dostosowywania wizualnego
+- Te same modele AI co poziom Darmowy
 
-Potrzebujesz funkcji Premium na krótki okres? Day Passes są idealne:
+**Najlepsze dla:** Użytkowników, którzy chcą, aby ich postacie utrzymywały doskonałą pamięć przez długie, złożone linie fabularne bez potrzeby zaawansowanych modeli AI Premium. Jeśli regularnie kupujesz Memory Boosts, Plus oferuje znacznie lepszą wartość.
 
-- **1-Day Pass**: $1 - Pełny dostęp Premium na 24 godziny
-- **3-Day Pass**: $2 - Pełny dostęp Premium na 72 godziny
+## Poziom Premium: Pełne Doświadczenie AICHIKI
 
-## Memory Boost - Dla Konkretnego Czatu
+Premium odblokowuje pełny potencjał platformy z najbardziej zaawansowanymi modelami AI i wszystkimi funkcjami. To nasza najbardziej opłacalna opcja dla regularnych użytkowników, którzy chcą najgłębszych, najbardziej inteligentnych rozmów.
 
-Potrzebujesz rozszerzonej pamięci w konkretnym czacie?
+**Ceny:**
 
-- **Cena**: $1
-- **Czas trwania**: 3 dni
-- **Zawiera**: Nieograniczona pamięć w jednym czacie
-- **Ważne**: Nie obejmuje dostępu do modeli Premium
+- Miesięcznie: ~15 USD/miesiąc
+- Rocznie: ~150 USD/rok
 
-**Uwaga**: Memory Boost zapewnia tylko pamięć w jednym czacie i nie obejmuje modeli AI Premium. Dla regularnych potrzeb pamięciowych pakiet Plus ($3.99/miesiąc) oferuje lepszą wartość. Dla pełnego dostępu Premium, 3-Day Pass ($2) to lepsza opcja.
+**Co Jest Zawarte:**
 
-## Specjalna Promocja Startowa
+- **Wszystko z poziomu Plus**
+- **Modele AI wyższej jakości** - Dostęp do naszych najmądrzejszych, najbardziej wyrafinowanych modeli konwersacyjnych
+- **Zaawansowane ustawienia i dostosowania czatu** - Głęboka kontrola nad zachowaniem postaci
+- **Ramka profilu premium** - Specjalna wizualna odznaka dla Twojego profilu ✨
 
-**Działaj przed 1 września!** Aby zablokować obecne stawki przed podwyżką cen:
+**Najlepsze dla:** Regularnych użytkowników, którzy chcą pełnego doświadczenia AICHIKI z najbardziej inteligentnymi modelami AI. Twoje wsparcie pomaga bezpośrednio w opracowywaniu nowych funkcji i ulepszaniu platformy.
 
-1. Kup subskrypcję Premium teraz
-2. Zachowaj obecną cenę do następnej daty rozliczenia
-3. Zaoszczędź $5/miesiąc, $50/rok długoterminowo
+## Elastyczne Opcje: Przepustki Dzienne i Wzmocnienia Pamięci
 
-## Gotowy na Rozpoczęcie?
+Nie potrzebujesz pełnej subskrypcji? Oferujemy elastyczne opcje do sporadycznego lub konkretnego użytku.
 
-Odwiedź [AICHIKI](https://aichiki.com) i rozpocznij swoją podróż z AI już dziś. Niezależnie od wybranego pakietu gwarantujemy najlepszą technologię AI i doskonałe doświadczenie użytkownika.
+### Przepustka Dzienna: 1 Dzień ($1) lub 3 Dni ($2)
 
----
+Uzyskaj pełny dostęp Premium na krótki okres:
 
-*Masz pytania? Nasz zespół wsparcia jest tutaj, aby pomóc. Nie wahaj się skontaktować z nami pod adresem hello@aichiki.com.*
+- **Przepustka 1-Dniowa:** 1 USD za 24 godziny pełnego dostępu Premium
+- **Przepustka 3-Dniowa:** 2 USD za trzy pełne dni—dwa dodatkowe dni za tylko jeden dodatkowy dolar
+
+Obie przepustki obejmują najlepsze modele AI, nieograniczoną pamięć we wszystkich czatach i wszystkie dostosowania.
+
+**Najlepsze dla:** Wypróbowania funkcji Premium lub do sporadycznych, skoncentrowanych sesji.
+
+### Wzmocnienie Pamięci ($1)
+
+Ukierunkowane ulepszenie dla pojedynczej rozmowy. Za 1 USD otrzymujesz nieograniczoną pamięć w jednym wątku czatu przez trzy dni.
+
+**Ważne:** Zapewnia to **tylko** nieograniczoną pamięć w jednym czacie; nie zapewnia dostępu do modeli Premium ani innych funkcji. Za tylko 1 USD więcej **Przepustka 3-Dniowa (2 USD)** daje pełny dostęp Premium na całej platformie przez ten sam czas.
+
+**Rozważ to:** Jeśli regularnie potrzebujesz wzmocnień pamięci, **subskrypcja Plus (3,99 USD/miesiąc)** oferuje nieograniczoną pamięć we wszystkich czatach przez cały miesiąc—znacznie lepsza wartość.
+
+**Najlepsze dla:** Gdy potrzebujesz doskonałej pamięci tylko w jednej linii fabularnej i nie potrzebujesz innych funkcji Premium.
+
+## Jak Porównują Się Poziomy
+
+Pomyśl o nich jako o trzech drogach do tego samego świata, każda otwiera się nieco szerzej:
+
+- **Darmowy:** Buduj nieograniczone światy z postaciami mającymi dobrą pamięć krótkoterminową
+- **Plus:** Buduj nieograniczone światy z postaciami, które nigdy nie zapominają
+- **Premium:** Buduj nieograniczone światy z postaciami, które nigdy nie zapominają i mają najbardziej wyrafinowane umysły AI
+
+Każdy poziom pozwala tworzyć bez ograniczeń. Różnica polega na tym, jak głęboko postacie przechowują Twoje historie i jak silne są modele za nimi. Ty wybierasz, jak daleko chcesz, aby sięgało doświadczenie.
+
+## Ważna Uwaga o Cenach i VAT
+
+Wszystkie wymienione ceny to ceny bazowe. W zależności od Twojego kraju, przy kasie może zostać dodany Podatek od Wartości Dodanej (VAT) lub inne lokalne podatki. Ostateczna cena zostanie wyświetlona przed potwierdzeniem płatności.
+
+## Nasze Podejście
+
+Oferujemy różne plany, ponieważ wiemy, że każdy używa AICHIKI inaczej. Naszym celem jest zapewnienie elastycznych opcji, które odpowiadają Twojemu stylowi użytkowania.
+
+Jesteśmy małym, niezależnym zespołem budującym tę platformę. Twoje wsparcie bezpośrednio pokrywa nasze główne koszty, takie jak zaawansowane modele AI i infrastruktura serwerowa, i pozwala nam kontynuować rozwijanie nowych funkcji. Doceniamy każdego członka naszej społeczności, niezależnie od tego, czy jesteś tu dla darmowego doświadczenia, czy zdecydujesz się na ulepszenie.
+
+Dziękujemy za przeczytanie i cieszymy się, że jesteś z nami.
+
+— Zespół AICHIKI (Rudolf & Edith)

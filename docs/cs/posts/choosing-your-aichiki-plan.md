@@ -1,71 +1,110 @@
 ---
-title: "Výběr Vašeho Balíčku AICHIKI: Jednoduchý Průvodce"
-date: 2024-08-26
-author: "AICHIKI Team"
-excerpt: "Najděte perfektní balíček AICHIKI pro vaše potřeby AI platformy. Porovnejte možnosti Premium předplatného, Day Passes a Memory Boost."
+title: 'Výběr Vašeho Plánu AICHIKI: Jednoduchý Průvodce'
+date: 2024-07-30
+excerpt: 'Jasný průvodce, který vám pomůže vybrat nejlepší plán AICHIKI pro vaše potřeby. Prozkoumejte úrovně Zdarma, Plus a Premium—tři cesty do stejného světa, každá se otevírá o trochu šířeji.'
+published: true
 ---
 
-# Výběr Vašeho Balíčku AICHIKI: Jednoduchý Průvodce
+# Výběr Vašeho Plánu AICHIKI: Jednoduchý Průvodce
 
-AICHIKI nabízí několik možností balíčků pro každou potřebu a rozpočet. Jsme odhodláni poskytovat nejlepší AI zážitek za dostupné ceny. Zde je přehled dostupných balíčků.
+AICHIKI nabízí tři úrovně, které vám poskytují přístup ke stejnému kreativnímu světu, každá se otevírá o trochu šířeji v závislosti na tom, jak daleko chcete své příběhy posunout. Zde je to, co každý plán nabízí a jak vybrat ten, který vyhovuje vašim potřebám.
 
-## Proč Vybrat AICHIKI?
+## Úroveň Zdarma: Vše, Co Potřebujete k Začátku Tvorby
 
-S AICHIKI získáte přístup k nejnovějším a nejsilnějším AI modelům jako Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro, o1-preview a o1-mini. Je to vaše jednotné místo pro nejlepší AI technologie.
+Úroveň Zdarma je navržena tak, aby vám poskytla kompletní zážitek z AICHIKI bez jakýchkoli nákladů. Můžete se ponořit do neomezeného vyprávění příběhů hned od začátku.
 
-## Balíček Plus - $3.99/měsíc (+DPH)
+**Co Je Zahrnuto:**
 
-Balíček Plus nabízí všechny bezplatné funkce plus neomezenou paměť ve všech chatech:
+- **Neomezené chaty** - Vytvořte tolik konverzací, kolik chcete
+- **Neomezené vytváření postav** - Postavte celé své obsazení postav
+- **Neomezené vytváření identit** - Přepínejte mezi různými personami
+- **Neomezené generování obrázků** - Vizualizujte své postavy a scény
+- **Většina témat chatu odemčena** - Přizpůsobte si svůj chatovací zážitek
+- **Plný přístup k nastavení chatu** - Dolaďte své konverzace
+- **Skupinová hra na hrdiny** - Pozvěte více postav do stejného chatu
+- **Přístup k samotné AICHIKI** - Získejte pomoc od našeho vestavěného asistenta
+- **Omezená paměť** - Vaše chaty mají krátkodobou paměť; hra na hrdiny pokračuje normálně, i když starší vzpomínky mizí
 
-- **Cena**: Pouze $3.99/měsíc (+DPH kde je to použitelné)
-- **Paměť**: Neomezená paměť ve všech chatech
-- **Modely**: AI modely bezplatné úrovně
-- **Nejlepší pro**: Pravidelné potřeby paměti bez nutnosti Premium modelů
+**Nejlepší pro:** Kohokoli, kdo chce prozkoumat kreativní možnosti AICHIKI bez závazků. Získáte neomezenou tvorbu a konverzaci—jediné omezení je, jak daleko zpět si každá postava dokáže vzpomenout.
 
-Pokud chcete, aby si chaty pravidelně pamatovaly váš kontext, ale nepotřebujete nejpokročilejší AI modely, balíček Plus je mnohem ekonomičtější než opakované nákupy Memory Boosts.
+## Úroveň Plus: Neomezená Paměť pro Vaše Příběhy
 
-## Premium Předplatné
+Plus je perfektní, pokud máte rádi bezplatné funkce, ale chcete, aby si vaše postavy pamatovaly vše z vašich konverzací, bez ohledu na to, jak dávno se to stalo.
 
-Náš vlajkový balíček nabízí plný přístup k nejlepšímu AI zážitku:
+**Cena:** 3,99 USD/měsíc (plus DPH v závislosti na vaší zemi)
 
-- **Současná cena**: $10/měsíc nebo $100/rok
-- **Po 1. září**: $15/měsíc nebo $150/rok
-- **Zahrnuje**:
-  - Všechny Premium AI modely (Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro, o1-preview, o1-mini)
-  - Neomezená paměť ve všech chatech
-  - Prioritní podpora
-  - Předčasný přístup k novým funkcím
+**Co Je Zahrnuto:**
 
-## Day Passes - Krátkodobý Přístup
+- **Vše z úrovně Zdarma**
+- **Neomezená paměť ve všech chatech** - Postavy si pamatují celou vaši sdílenou historii
+- **Všechna témata chatu odemčena** - Přístup ke každé možnosti vizuálního přizpůsobení
+- Stejné AI modely jako úroveň Zdarma
 
-Potřebujete Premium funkce na krátkou dobu? Day Passes jsou perfektní:
+**Nejlepší pro:** Uživatele, kteří chtějí, aby jejich postavy udržovaly dokonalou vzpomínku skrze dlouhé, složité dějové linky bez potřeby pokročilých AI modelů Premium. Pokud si pravidelně kupujete Memory Boosts, Plus nabízí mnohem lepší hodnotu.
 
-- **1-Day Pass**: $1 - Plný Premium přístup na 24 hodin
-- **3-Day Pass**: $2 - Plný Premium přístup na 72 hodin
+## Úroveň Premium: Kompletní Zážitek AICHIKI
 
-## Memory Boost - Pro Konkrétní Chat
+Premium odemyká plný potenciál platformy s nejpokročilejšími AI modely a všemi funkcemi. Je to naše nejvíce nákladově efektivní možnost pro pravidelné uživatele, kteří chtějí ty nejhlubší a nejinteligentnější konverzace.
 
-Potřebujete rozšířenou paměť v konkrétním chatu?
+**Cena:**
 
-- **Cena**: $1
-- **Trvání**: 3 dny
-- **Zahrnuje**: Neomezená paměť v jednom chatu
-- **Důležité**: Nezahrnuje přístup k Premium modelům
+- Měsíčně: ~15 USD/měsíc
+- Ročně: ~150 USD/rok
 
-**Poznámka**: Memory Boost poskytuje pouze paměť v jednom chatu a nezahrnuje Premium AI modely. Pro pravidelné potřeby paměti nabízí balíček Plus ($3.99/měsíc) lepší hodnotu. Pro plný Premium přístup je 3-Day Pass ($2) lepší možnost.
+**Co Je Zahrnuto:**
 
-## Speciální Spouštěcí Akce
+- **Vše z úrovně Plus**
+- **AI modely vyšší kvality** - Přístup k našim nejchytřejším, nejsofistikovanějším konverzačním modelům
+- **Pokročilá nastavení a přizpůsobení chatu** - Hluboká kontrola nad chováním postav
+- **Prémiový rámeček profilu** - Speciální vizuální odznak pro váš profil ✨
 
-**Jednejte před 1. zářím!** Abyste zafixovali současné sazby před zvýšením cen:
+**Nejlepší pro:** Pravidelné uživatele, kteří chtějí kompletní zážitek AICHIKI s nejinteligentnějšími AI modely. Vaše podpora nám přímo pomáhá vyvíjet nové funkce a zlepšovat platformu.
 
-1. Kupte si Premium předplatné nyní
-2. Udržte současnou cenu do dalšího data fakturace
-3. Ušetřete $5/měsíc, $50/rok dlouhodobě
+## Flexibilní Možnosti: Denní Průkazky a Posílení Paměti
 
-## Připraveni Začít?
+Nepotřebujete plné předplatné? Nabízíme flexibilní možnosti pro příležitostné nebo specifické použití.
 
-Navštivte [AICHIKI](https://aichiki.com) a začněte svou AI cestu dnes. Ať si vyberete jakýkoli balíček, garantujeme nejlepší AI technologie a vynikající uživatelský zážitek.
+### Denní Průkazka: 1 Den ($1) nebo 3 Dny ($2)
 
----
+Získejte plný Premium přístup na krátké období:
 
-*Máte otázky? Náš tým podpory je zde, aby pomohl. Neváhejte nás kontaktovat na hello@aichiki.com.*
+- **1-Denní Průkazka:** 1 USD za 24 hodin plného Premium přístupu
+- **3-Denní Průkazka:** 2 USD za tři celé dny—dva extra dny jen za jeden extra dolar
+
+Obě průkazky zahrnují top AI modely, neomezenou paměť ve všech chatech a všechna přizpůsobení.
+
+**Nejlepší pro:** Vyzkoušení Premium funkcí nebo pro příležitostné, zaměřené relace.
+
+### Posílení Paměti ($1)
+
+Cílené vylepšení pro jednu konverzaci. Za 1 USD získáte neomezenou paměť v jednom chatovacím vlákně po dobu tří dnů.
+
+**Důležité:** Toto poskytuje **pouze** neomezenou paměť v jednom chatu; neposkytuje přístup k Premium modelům nebo jiným funkcím. Jen za 1 USD navíc vám **3-Denní Průkazka (2 USD)** dá plný Premium přístup na celé platformě po stejnou dobu.
+
+**Zvažte toto:** Pokud potřebujete posílení paměti pravidelně, **předplatné Plus (3,99 USD/měsíc)** nabízí neomezenou paměť ve všech vašich chatech po celý měsíc—mnohem lepší hodnota.
+
+**Nejlepší pro:** Když potřebujete dokonalou vzpomínku pouze v jedné dějové linii a nepotřebujete jiné Premium funkce.
+
+## Jak Se Úrovně Porovnávají
+
+Představte si je jako tři cesty do stejného světa, každá se otevírá o trochu šířeji:
+
+- **Zdarma:** Stavějte neomezené světy s postavami, které mají dobrou krátkodobou paměť
+- **Plus:** Stavějte neomezené světy s postavami, které nikdy nezapomínají
+- **Premium:** Stavějte neomezené světy s postavami, které nikdy nezapomínají a mají nejsofistikovanější AI mysli
+
+Každá úroveň vám umožňuje tvořit bez omezení. Rozdíl je v tom, jak hluboce postavy uchovávají vaše příběhy a jak silné jsou modely za nimi. Vy si vyberete, jak daleko chcete, aby zážitek došel.
+
+## Důležitá Poznámka o Cenách a DPH
+
+Všechny uvedené ceny jsou základní ceny. V závislosti na vaší zemi může být při placení přidána daň z přidané hodnoty (DPH) nebo jiné místní daně. Konečná cena se zobrazí před potvrzením platby.
+
+## Náš Přístup
+
+Nabízíme různé plány, protože víme, že každý používá AICHIKI jinak. Naším cílem je poskytnout flexibilní možnosti, které odpovídají vašemu stylu používání.
+
+Jsme malý, nezávislý tým, který staví tuto platformu. Vaše podpora přímo pokrývá naše hlavní náklady, jako jsou pokročilé AI modely a serverová infrastruktura, a umožňuje nám pokračovat ve vývoji nových funkcí. Vážíme si každého člena naší komunity, ať už jste zde pro bezplatný zážitek nebo se rozhodnete upgradovat.
+
+Děkujeme za přečtení a jsme rádi, že jste s námi.
+
+— Tým AICHIKI (Rudolf & Edith)

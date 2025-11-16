@@ -1,81 +1,103 @@
 ---
 title: 'Alegerea Pachetului AICHIKI Potrivit: Un Ghid Simplu'
 date: 2024-07-30
-excerpt: "Cu câteva moduri diferite de a utiliza AICHIKI, am vrut să creăm un ghid clar pentru a vă ajuta să găsiți cea mai bună potrivire. Iată o prezentare simplă a fiecărui plan, ce include și pentru cine este cel mai potrivit."
+excerpt: 'Un ghid clar pentru a vă ajuta să alegeți cel mai bun plan AICHIKI pentru nevoile dumneavoastră. Explorați nivelurile Gratuit, Plus și Premium—trei căi către aceeași lume, fiecare deschizându-se un pic mai larg.'
+published: true
 ---
 
-# Alegerea Planului AICHIKI: Un Ghid Simplu
+# Alegerea Pachetului AICHIKI Potrivit: Un Ghid Simplu
 
-Cu câteva moduri diferite de a utiliza AICHIKI, am vrut să creăm un ghid clar pentru a vă ajuta să găsiți cea mai bună potrivire. Iată o prezentare simplă a fiecărui plan, ce include și pentru cine este cel mai potrivit. Vom acoperi și modificările de prețuri viitoare, astfel încât să puteți face o alegere informată.
+AICHIKI oferă trei niveluri care vă dau acces la aceeași lume creativă, fiecare deschizându-se un pic mai larg în funcție de cât de departe doriți să vă duceți poveștile. Iată ce oferă fiecare plan și cum să alegeți cel care se potrivește nevoilor dumneavoastră.
 
-## Abonament Premium: Pentru Experiența Completă AICHIKI
+## Nivel Gratuit: Tot Ce Aveți Nevoie pentru a Începe să Creați
 
-Abonamentul Premium este conceput pentru utilizatorii noștri obișnuiți. Acesta deblochează potențialul complet al platformei și este cea mai rentabilă opțiune pentru utilizare frecventă.
+Nivelul Gratuit este conceput pentru a vă oferi o experiență completă AICHIKI fără niciun cost. Puteți să vă cufundați în povestiri nelimitate chiar de la început.
+
+**Ce Este Inclus:**
+
+- **Chat-uri nelimitate** - Creați câte conversații doriți
+- **Creare nelimitată de personaje** - Construiți-vă întreaga echipă de personaje
+- **Creare nelimitată de identități** - Schimbați între diferite persoane
+- **Generare nelimitată de imagini** - Vizualizați-vă personajele și scenele
+- **Majoritatea temelor de chat deblocate** - Personalizați-vă experiența de chat
+- **Acces complet la setările de chat** - Reglați fin conversațiile
+- **Joc de rol în grup** - Invitați mai multe personaje în același chat
+- **Acces la AICHIKI însuși** - Obțineți ajutor de la asistentul nostru integrat
+- **Memorie limitată** - Chat-urile dumneavoastră au memorie pe termen scurt; jocul de rol continuă normal chiar și când amintirile mai vechi se estompează
+
+**Cel mai bun pentru:** Oricine dorește să exploreze posibilitățile creative ale AICHIKI fără angajament. Obțineți creare și conversație nelimitate—singura limitare este cât de departe înapoi poate aminti fiecare personaj.
+
+## Nivel Plus: Memorie Nelimitată pentru Poveștile Dumneavoastră
+
+Plus este perfect dacă vă plac funcțiile gratuite, dar doriți ca personajele dumneavoastră să își amintească totul din conversațiile dumneavoastră, indiferent de cât de demult s-a întâmplat.
+
+**Prețuri:** 3,99 $/lună (plus TVA în funcție de țara dumneavoastră)
+
+**Ce Este Inclus:**
+
+- **Tot din nivelul Gratuit**
+- **Memorie nelimitată în toate chat-urile** - Personajele își amintesc întreaga istorie împărtășită
+- **Toate temele de chat deblocate** - Acces la fiecare opțiune de personalizare vizuală
+- Aceleași modele AI ca și nivelul Gratuit
+
+**Cel mai bun pentru:** Utilizatorii care doresc ca personajele lor să mențină o amintire perfectă pe parcursul unor povești lungi și complexe, fără a avea nevoie de modelele AI avansate ale Premium. Dacă vă găsiți cumpărând în mod regulat Amplificări de Memorie, Plus oferă o valoare mult mai bună.
+
+## Nivel Premium: Experiența AICHIKI Completă
+
+Premium deblochează potențialul complet al platformei cu cele mai avansate modele AI și toate funcționalitățile. Este cea mai rentabilă opțiune pentru utilizatorii obișnuiți care doresc conversațiile cele mai profunde și mai inteligente.
 
 **Prețuri:**
 
-*   **Curent (Până la 31 august):**
-    *   Lunar: ~$10/lună
-    *   Anual: $100/an
-*   **De la 1 septembrie:**
-    *   Lunar: ~$15/lună
-    *   Anual: ~$150/an
+- Lunar: ~$15/lună
+- Anual: ~$150/an
 
-**Promoție de Lansare:** Abonați-vă înainte de 1 septembrie pentru a beneficia de tarifele curente. Planul lunar este blocat pentru un an, iar planul anual este blocat pentru doi ani.
+**Ce Este Inclus:**
 
-**Funcționalități Premium:**
+- **Tot din nivelul Plus**
+- **Modele AI de calitate superioară** - Acces la cele mai inteligente și sofisticate modele de conversație
+- **Setări și personalizări avansate de chat** - Control profund asupra comportamentului personajelor
+- **Ramă premium pentru profil** - Un ecuson vizual special pentru profilul dumneavoastră ✨
 
-*   Acces la cele mai bune și mai inteligente modele AI ale noastre
-*   Memorie nelimitată în toate conversațiile tale
-*   Setări avansate de chat și personalizări
-*   O ramă premium pentru fotografia ta de profil ✨
+**Cel mai bun pentru:** Utilizatorii obișnuiți care doresc experiența completă AICHIKI cu cele mai inteligente modele AI. Sprijinul dumneavoastră ne ajută direct să dezvoltăm noi funcționalități și să îmbunătățim platforma.
 
-**Cel mai bun pentru:** Dacă utilizați AICHIKI în mod regulat, Premium oferă cea mai bună valoare și experiența completă. Sprijinul dumneavoastră ne ajută, de asemenea, direct să creștem și să îmbunătățim platforma.
+## Opțiuni Flexibile: Tichete de Zi și Amplificări de Memorie
 
-## Abonament Plus: Funcții Gratuite cu Memorie Nelimitată
+Nu aveți nevoie de un abonament complet? Oferim opțiuni flexibile pentru utilizare ocazională sau specifică.
 
-Abonamentul Plus face legătura între experiența noastră gratuită și Premium. Este perfect dacă vă plac funcțiile noastre gratuite, dar aveți nevoie de memorie nelimitată în toate conversațiile.
+### Tichet de Zi: 1 Zi ($1) sau 3 Zile ($2)
 
-**Prețuri:**
+Obțineți acces Premium complet pentru o perioadă scurtă:
 
-*   Lunar: 3,99 $/lună (plus TVA în funcție de țara dumneavoastră)
+- **Tichet de 1 Zi:** $1 pentru 24 de ore de acces Premium complet
+- **Tichet de 3 Zile:** $2 pentru trei zile complete—două zile suplimentare pentru doar un dolar în plus
 
-**Funcționalități Plus:**
-
-*   Toate funcțiile gratuite de care vă bucurați deja
-*   Memorie nelimitată în toate conversațiile
-*   Acces la aceleași modele AI ca și nivelul gratuit
-
-**Cel mai bun pentru:** Utilizatorii care sunt mulțumiți de experiența gratuită, dar doresc memorie nelimitată fără să aibă nevoie de modelele avansate și funcționalitățile Premium.
-
-## Tichete Flexibile și Amplificări
-
-Nu aveți nevoie de un abonament complet? Aceste opțiuni sunt pentru utilizare mai ocazională sau specifică.
-
-### Tichet de o Zi: 1 Zi ($1) sau 3 Zile ($2)
-
-Obțineți acces Premium complet pentru o perioadă scurtă. Oferim două opțiuni:
-
-*   **Tichet de 1 Zi:** Pentru 1$, obțineți 24 de ore de acces Premium complet.
-*   **Tichet de 3 Zile:** Pentru 2$, obțineți trei zile complete de acces. Este o ofertă excelentă — două zile suplimentare pentru doar un dolar în plus.
-
-Ambele tichete includ cele mai bune modele AI, memorie nelimitată în toate chaturile și toate personalizările.
+Ambele tichete includ cele mai bune modele AI, memorie nelimitată în toate chat-urile și toate personalizările.
 
 **Cel mai bun pentru:** Încercarea funcționalităților Premium sau pentru sesiuni ocazionale, concentrate.
 
-### Amplificare Memorie ($1)
+### Amplificare de Memorie ($1)
 
-Aceasta este o actualizare specifică pentru o singură conversație. Pentru 1$, obțineți memorie nelimitată într-un fir de chat pentru trei zile.
+O actualizare specifică pentru o singură conversație. Pentru $1, obțineți memorie nelimitată într-un fir de chat pentru trei zile.
 
-**Important:** Această amplificare oferă **doar** memorie nelimitată într-un singur chat; nu acordă acces la modelele Premium sau la alte funcționalități. Pentru doar 1$ în plus, **Tichetul de 3 Zile (2$)** vă oferă acces Premium complet pe întreaga platformă pentru aceeași durată, ceea ce este adesea o valoare mai bună.
+**Important:** Aceasta oferă **doar** memorie nelimitată într-un singur chat; nu acordă acces la modelele Premium sau la alte funcționalități. Pentru doar $1 în plus, **Tichetul de 3 Zile ($2)** vă oferă acces Premium complet pe întreaga platformă pentru aceeași durată.
 
-**Luați în considerare:** Dacă vă trezește că aveți nevoie regulat de amplificări de memorie, **abonamentul Plus (3,99 $/lună)** oferă memorie nelimitată în toate chaturile pentru întreaga lună—o valoare mult mai bună decât mai multe amplificări de memorie.
+**Luați în considerare:** Dacă aveți nevoie regulat de amplificări de memorie, **abonamentul Plus ($3,99/lună)** oferă memorie nelimitată în toate chat-urile pentru întreaga lună—o valoare mult mai bună.
 
 **Cel mai bun pentru:** Când aveți nevoie de o amintire perfectă doar într-o singură poveste și nu aveți nevoie de alte funcționalități Premium.
 
+## Cum Se Compară Nivelurile
+
+Gândiți-vă la ele ca la trei căi către aceeași lume, fiecare deschizându-se un pic mai larg:
+
+- **Gratuit:** Construiți lumi nelimitate cu personaje care au memorie bună pe termen scurt
+- **Plus:** Construiți lumi nelimitate cu personaje care nu uită niciodată
+- **Premium:** Construiți lumi nelimitate cu personaje care nu uită niciodată și au cele mai sofisticate minți AI
+
+Fiecare nivel vă permite să creați fără limite. Diferența este cât de profund păstrează personajele poveștile dumneavoastră și cât de puternice sunt modelele din spatele lor. Alegeți cât de departe doriți să ajungă experiența.
+
 ## Notă Importantă privind Prețurile și TVA
 
-Vă rugăm să rețineți că toate prețurile listate sunt prețuri de bază. În funcție de țara dumneavoastră, la finalizarea comenzii se pot adăuga Taxa pe Valoarea Adăugată (TVA) sau alte taxe locale. Prețul final va fi afișat înainte de a confirma plata.
+Toate prețurile listate sunt prețuri de bază. În funcție de țara dumneavoastră, la finalizarea comenzii se pot adăuga Taxa pe Valoarea Adăugată (TVA) sau alte taxe locale. Prețul final va fi afișat înainte de a confirma plata.
 
 ## Abordarea Noastră
 
@@ -85,4 +107,4 @@ Suntem o echipă mică, independentă, care construiește această platformă. S
 
 Vă mulțumim pentru lectură și ne bucurăm să vă avem alături.
 
-— Echipa AICHIKI
+— Echipa AICHIKI (Rudolf & Edith)

@@ -2,7 +2,11 @@
   "permissions": {
     "allow": [
       "Bash(test:*)",
-      "Bash(cat:*)"
+      "Bash(cat:*)",
+      "Bash(npm run docs:build:*)",
+      "Bash(Select-String -Pattern \"\\.md\")",
+      "Bash(Select-Object -First 5)",
+      "Bash(node -e:*)"
     ],
     "deny": [],
     "ask": []

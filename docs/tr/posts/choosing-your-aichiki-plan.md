@@ -1,71 +1,110 @@
 ---
-title: "AICHIKI Paketinizi Seçmek: Basit Bir Rehber"
-date: 2024-08-26
-author: "AICHIKI Team"
-excerpt: "AI platform ihtiyaçlarınız için mükemmel AICHIKI paketini bulun. Premium abonelik, Day Passes ve Memory Boost seçeneklerini karşılaştırın."
+title: 'AICHIKI Planınızı Seçmek: Basit Bir Kılavuz'
+date: 2024-07-30
+excerpt: 'İhtiyaçlarınız için en iyi AICHIKI planını seçmenize yardımcı olacak net bir kılavuz. Ücretsiz, Plus ve Premium seviyelerini keşfedin—aynı dünyaya üç yol, her biri biraz daha geniş açılıyor.'
+published: true
 ---
 
-# AICHIKI Paketinizi Seçmek: Basit Bir Rehber
+# AICHIKI Planınızı Seçmek: Basit Bir Kılavuz
 
-AICHIKI her ihtiyaç ve bütçe için çoklu paket seçenekleri sunar. En iyi AI deneyimini uygun fiyatlarla sunmaya kararlıyız. İşte mevcut paketlerin genel görünümü.
+AICHIKI, hikayelerinizi ne kadar ileri götürmek istediğinize bağlı olarak her biri biraz daha geniş açılan aynı yaratıcı dünyaya erişim sağlayan üç seviye sunar. İşte her planın sunduğu şeyler ve ihtiyaçlarınıza uygun olanı nasıl seçeceğiniz.
 
-## Neden AICHIKI'yi Seçmelisiniz?
+## Ücretsiz Seviye: Yaratmaya Başlamak İçin İhtiyacınız Olan Her Şey
 
-AICHIKI ile Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro, o1-preview ve o1-mini gibi en yeni ve güçlü AI modellerine erişim elde edersiniz. En iyi AI teknolojisi için tek durak noktanızdır.
+Ücretsiz seviye, size herhangi bir maliyet olmadan tam bir AICHIKI deneyimi sunmak için tasarlanmıştır. Baştan sınırsız hikaye anlatımına dalabilirsiniz.
 
-## Plus Paketi - $3.99/ay (+KDV)
+**Neler Dahil:**
 
-Plus paketi tüm ücretsiz özellikleri artı tüm sohbetlerde sınırsız bellek sunar:
+- **Sınırsız sohbetler** - İstediğiniz kadar konuşma oluşturun
+- **Sınırsız karakter oluşturma** - Tüm karakter kadronuzu oluşturun
+- **Sınırsız kimlik oluşturma** - Farklı kişilikler arasında geçiş yapın
+- **Sınırsız resim oluşturma** - Karakterlerinizi ve sahnelerinizi görselleştirin
+- **Çoğu sohbet teması kilidi açılmış** - Sohbet deneyiminizi özelleştirin
+- **Sohbet ayarlarına tam erişim** - Konuşmalarınızı ince ayarlayın
+- **Grup rol yapma** - Aynı sohbete birden fazla karakteri davet edin
+- **AICHIKI'nin kendisine erişim** - Yerleşik asistanımızdan yardım alın
+- **Sınırlı bellek** - Sohbetleriniz kısa süreli belleğe sahip; eski anılar solsa bile rol yapma normal şekilde devam eder
 
-- **Fiyat**: Sadece $3.99/ay (+uygulanabilir yerlerde KDV)
-- **Bellek**: Tüm sohbetlerde sınırsız bellek
-- **Modeller**: Ücretsiz seviye AI modelleri
-- **En İyi Seçenek**: Premium modellere ihtiyaç duymadan düzenli bellek ihtiyaçları için
+**En İyi:** AICHIKI'nin yaratıcı olanaklarını taahhüt olmadan keşfetmek isteyen herkes için. Sınırsız yaratım ve konuşma elde edersiniz—tek sınırlama her karakterin ne kadar geriye hatırlayabildiğidir.
 
-Sohbetlerin bağlamınızı düzenli olarak hatırlamasını istiyorsanız ancak en gelişmiş AI modellerine ihtiyacınız yoksa, Plus paketi Memory Boost'ları tekrar tekrar satın almaktan çok daha ekonomiktir.
+## Plus Seviye: Hikayeleriniz İçin Sınırsız Bellek
 
-## Premium Abonelik
+Plus, ücretsiz özellikleri seviyorsanız ancak karakterlerinizin konuşmalarınızdan ne kadar önce olursa olsun her şeyi hatırlamasını istiyorsanız mükemmeldir.
 
-Amiral gemimiz paketi en iyi AI deneyimine tam erişim sağlar:
+**Fiyatlandırma:** $3,99/ay (ülkenize bağlı olarak artı KDV)
 
-- **Mevcut fiyat**: $10/ay veya $100/yıl
-- **1 Eylül'den sonra**: $15/ay veya $150/yıl
-- **İçerik**:
-  - Tüm Premium AI modelleri (Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro, o1-preview, o1-mini)
-  - Tüm sohbetlerde sınırsız bellek
-  - Öncelikli destek
-  - Yeni özelliklere erken erişim
+**Neler Dahil:**
 
-## Day Passes - Kısa Vadeli Erişim
+- **Ücretsiz seviyeden her şey**
+- **Tüm sohbetlerde sınırsız bellek** - Karakterler tüm paylaşılan geçmişinizi hatırlar
+- **Tüm sohbet temaları kilidi açılmış** - Her görsel özelleştirme seçeneğine erişim
+- Ücretsiz seviyeyle aynı AI modelleri
 
-Kısa bir süre için Premium özelliklere mi ihtiyacınız var? Day Passes mükemmeldir:
+**En İyi:** Premium'un gelişmiş AI modellerine ihtiyaç duymadan karakterlerinin uzun, karmaşık hikaye çizgileri boyunca mükemmel hatırlama sürdürmesini isteyen kullanıcılar için. Düzenli olarak Bellek Artırımları satın alıyorsanız, Plus çok daha iyi değer sunar.
 
-- **1-Day Pass**: $1 - 24 saat tam Premium erişimi
-- **3-Day Pass**: $2 - 72 saat tam Premium erişimi
+## Premium Seviye: Tam AICHIKI Deneyimi
 
-## Memory Boost - Belirli Sohbet İçin
+Premium, en gelişmiş AI modelleri ve tüm özelliklerle platformun tam potansiyelini açığa çıkarır. En derin, en akıllı konuşmaları isteyen düzenli kullanıcılar için en uygun maliyetli seçeneğimizdir.
 
-Belirli bir sohbette genişletilmiş belleğe mi ihtiyacınız var?
+**Fiyatlandırma:**
 
-- **Fiyat**: $1
-- **Süre**: 3 gün
-- **İçerik**: Bir sohbette sınırsız bellek
-- **Önemli**: Bu Premium modellere erişim içermez
+- Aylık: ~$15/ay
+- Yıllık: ~$150/yıl
 
-**Not**: Memory Boost yalnızca bir sohbette bellek sağlar ve Premium AI modelleri içermez. Düzenli bellek ihtiyaçları için Plus paketi ($3.99/ay) daha iyi değer sunar. Tam Premium erişimi için 3-Day Pass ($2) daha iyi bir seçenektir.
+**Neler Dahil:**
 
-## Özel Lansman Promosyonu
+- **Plus seviyesinden her şey**
+- **Daha yüksek kaliteli AI modelleri** - En akıllı, en sofistike konuşma modellerimize erişim
+- **Gelişmiş sohbet ayarları ve özelleştirmeler** - Karakter davranışı üzerinde derin kontrol
+- **Premium profil çerçevesi** - Profiliniz için özel bir görsel rozet ✨
 
-**1 Eylül'den önce harekete geçin!** Fiyat artışından önce mevcut oranları kilitlemek için:
+**En İyi:** En akıllı AI modelleriyle tam AICHIKI deneyimini isteyen düzenli kullanıcılar için. Desteğiniz doğrudan yeni özellikler geliştirmemize ve platformu iyileştirmemize yardımcı olur.
 
-1. Şimdi Premium abonelik satın alın
-2. Bir sonraki fatura tarihine kadar mevcut fiyatı koruyun
-3. Uzun vadede $5/ay, $50/yıl tasarruf edin
+## Esnek Seçenekler: Günlük Geçişler ve Bellek Artırımları
 
-## Başlamaya Hazır mısınız?
+Tam aboneliğe ihtiyacınız yok mu? Ara sıra veya özel kullanım için esnek seçenekler sunuyoruz.
 
-[AICHIKI](https://aichiki.com)'yi ziyaret edin ve AI yolculuğunuza bugün başlayın. Hangi paketi seçerseniz seçin, en iyi AI teknolojisini ve mükemmel kullanıcı deneyimini garanti ediyoruz.
+### Günlük Geçiş: 1 Gün ($1) veya 3 Gün ($2)
 
----
+Kısa bir süre için tam Premium erişimi alın:
 
-*Sorularınız mı var? Destek ekibimiz yardım etmek için burada. hello@aichiki.com adresinden bizimle iletişime geçmekten çekinmeyin.*
+- **1-Günlük Geçiş:** 24 saat tam Premium erişimi için $1
+- **3-Günlük Geçiş:** Üç tam gün için $2—sadece bir ekstra dolar için iki ekstra gün
+
+Her iki geçiş de en iyi AI modellerini, tüm sohbetlerde sınırsız belleği ve tüm özelleştirmeleri içerir.
+
+**En İyi:** Premium özelliklerini denemek veya ara sıra, odaklanmış oturumlar için.
+
+### Bellek Artırımı ($1)
+
+Tek bir konuşma için hedefli yükseltme. $1 karşılığında, üç gün boyunca bir sohbet dizisinde sınırsız bellek alırsınız.
+
+**Önemli:** Bu **yalnızca** bir sohbette sınırsız bellek sağlar; Premium modellere veya diğer özelliklere erişim vermez. Sadece $1 daha fazlasıyla, **3-Günlük Geçiş ($2)** size aynı süre için tüm platformda tam Premium erişimi verir.
+
+**Bunu düşünün:** Düzenli olarak bellek artırımlarına ihtiyacınız varsa, **Plus aboneliği ($3,99/ay)** tüm ay boyunca tüm sohbetlerinizde sınırsız bellek sunar—çok daha iyi değer.
+
+**En İyi:** Sadece tek bir hikaye çizgisinde mükemmel hatırlamaya ihtiyaç duyduğunuzda ve diğer Premium özelliklerine ihtiyacınız olmadığında.
+
+## Seviyeler Nasıl Karşılaştırılır
+
+Bunları aynı dünyaya üç yol olarak düşünün, her biri biraz daha geniş açılıyor:
+
+- **Ücretsiz:** İyi kısa süreli belleğe sahip karakterlerle sınırsız dünyalar oluşturun
+- **Plus:** Asla unutmayan karakterlerle sınırsız dünyalar oluşturun
+- **Premium:** Asla unutmayan ve en sofistike AI zihinlerine sahip karakterlerle sınırsız dünyalar oluşturun
+
+Her seviye sınırsız yaratmanıza olanak tanır. Fark, karakterlerin hikayelerinizi ne kadar derin tuttuğu ve arkalarındaki modellerin ne kadar güçlü olduğudur. Deneyimin ne kadar ileri gitmesini istediğinizi siz seçersiniz.
+
+## Fiyatlandırma ve KDV Hakkında Önemli Not
+
+Listelenen tüm fiyatlar temel fiyatlardır. Ülkenize bağlı olarak, ödeme sırasında Katma Değer Vergisi (KDV) veya diğer yerel vergiler eklenebilir. Nihai fiyat ödemenizi onaylamadan önce gösterilecektir.
+
+## Yaklaşımımız
+
+Farklı planlar sunuyoruz çünkü herkesin AICHIKI'yi farklı şekilde kullandığını biliyoruz. Amacımız, kullanım tarzınıza uygun esnek seçenekler sunmaktır.
+
+Bu platformu oluşturan küçük, bağımsız bir ekibiz. Desteğiniz, gelişmiş AI modelleri ve sunucu altyapısı gibi birincil maliyetlerimizi doğrudan karşılar ve yeni özellikler geliştirmeye devam etmemizi sağlar. Ücretsiz deneyim için burada olun veya yükseltmeyi seçin, topluluğumuzun her üyesini takdir ediyoruz.
+
+Okuduğunuz için teşekkürler ve bizimle olduğunuz için mutluyuz.
+
+— AICHIKI Ekibi (Rudolf & Edith)
