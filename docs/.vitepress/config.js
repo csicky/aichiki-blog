@@ -270,6 +270,7 @@ const generatedLocales = languages.reduce((acc, lang) => {
 
 export default defineConfig({
   title: "Aichiki's Blog",
+  lastUpdated: true,
 
   sitemap: {
     hostname: 'https://blog.aichiki.ai'

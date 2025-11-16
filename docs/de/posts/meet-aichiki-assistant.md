@@ -1,6 +1,6 @@
 ---
 title: "Lernen Sie AICHIKI kennen: Ihre In-App-Assistentin"
-date: 2025-01-15
+date: 2025-11-16
 excerpt: "Entdecken Sie AICHIKI, die integrierte Assistentin, die Ihnen hilft, sich in der App zurechtzufinden, Funktionen zu verstehen und direkte Antworten zu erhalten, ohne in ein Rollenspiel einzusteigen."
 published: true
 ---

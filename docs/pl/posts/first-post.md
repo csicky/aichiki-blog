@@ -1,6 +1,6 @@
 ---
 title: "Witaj na blogu AICHIKI: Sztuczna Inteligencja Stworzona dla Ciebie"
-date: 2024-07-05
+date: 2025-07-06
 excerpt: "Poznaj założycieli AICHIKI i dowiedz się o naszej filozofii skoncentrowanej na użytkowniku, która przyświeca budowie osobistej, intuicyjnej i bezpiecznej platformy czatu AI."
 ---
 

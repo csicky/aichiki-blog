@@ -1,6 +1,6 @@
 ---
 title: "Chào mừng đến với Blog của AICHIKI: AI được xây dựng cho bạn"
-date: 2024-07-05
+date: 2025-07-06
 excerpt: "Gặp gỡ những người sáng lập AICHIKI và tìm hiểu về triết lý lấy người dùng làm trung tâm của chúng tôi để xây dựng một nền tảng trò chuyện AI cá nhân, trực quan và an toàn."
 ---
 

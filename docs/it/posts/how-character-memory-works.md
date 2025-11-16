@@ -1,6 +1,6 @@
 ---
 title: "Come funziona la memoria dei personaggi"
-date: 2025-01-15
+date: 2025-11-16
 excerpt: "Scopri come Aichiki aiuta i tuoi personaggi AI a ricordare le conversazioni in modo naturale, con diversi livelli di memoria per gli utenti gratuiti e premium."
 published: true
 ---

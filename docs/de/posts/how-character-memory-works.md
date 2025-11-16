@@ -1,6 +1,6 @@
 ---
 title: "Wie das Charaktergedächtnis funktioniert"
-date: 2025-01-15
+date: 2025-11-16
 excerpt: "Erfahren Sie, wie Aichiki Ihren KI-Charakteren hilft, sich auf natürliche Weise an Gespräche zu erinnern, mit unterschiedlichen Gedächtnisstufen für kostenlose und Premium-Nutzer."
 published: true
 ---

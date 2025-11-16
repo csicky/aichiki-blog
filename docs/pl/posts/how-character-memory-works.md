@@ -1,6 +1,6 @@
 ---
 title: "Jak działa pamięć postaci"
-date: 2025-01-15
+date: 2025-11-16
 excerpt: "Dowiedz się, jak Aichiki pomaga postaciom AI naturalnie zapamiętywać rozmowy, z różnymi poziomami pamięci dla użytkowników darmowych i premium."
 published: true
 ---

@@ -1,6 +1,6 @@
 ---
 title: '당신의 AICHIKI 플랜 선택하기: 간단한 가이드'
-date: 2024-07-30
+date: 2025-11-16
 excerpt: '당신의 필요에 가장 적합한 AICHIKI 플랜을 선택하는 데 도움이 되는 명확한 가이드. 무료, Plus, Premium 티어를 탐색하세요—같은 세계로 가는 세 가지 길, 각각 조금씩 더 넓게 열립니다.'
 published: true
 ---

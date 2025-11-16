@@ -1,6 +1,6 @@
 ---
 title: "Gặp gỡ AICHIKI: Trợ lý trong ứng dụng của bạn"
-date: 2025-01-15
+date: 2025-11-16
 excerpt: "Khám phá AICHIKI, trợ lý tích hợp được thiết kế để giúp bạn điều hướng ứng dụng, hiểu các tính năng và nhận câu trả lời trực tiếp mà không cần tham gia nhập vai."
 published: true
 ---

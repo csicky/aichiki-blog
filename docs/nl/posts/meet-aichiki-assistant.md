@@ -1,6 +1,6 @@
 ---
 title: "Maak kennis met AICHIKI: Uw In-App Assistent"
-date: 2025-01-15
+date: 2025-11-16
 excerpt: "Ontdek AICHIKI, de ingebouwde assistent die is ontworpen om u te helpen navigeren in de app, functies te begrijpen en directe antwoorden te krijgen zonder rollenspel."
 published: true
 ---

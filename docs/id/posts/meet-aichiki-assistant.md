@@ -1,6 +1,6 @@
 ---
 title: "Kenali AICHIKI: Asisten Dalam Aplikasi Anda"
-date: 2025-01-15
+date: 2025-11-16
 excerpt: "Temukan AICHIKI, asisten bawaan yang dirancang untuk membantu Anda menavigasi aplikasi, memahami fitur, dan mendapatkan jawaban langsung tanpa memasuki permainan peran."
 published: true
 ---

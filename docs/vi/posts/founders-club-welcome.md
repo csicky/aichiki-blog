@@ -1,6 +1,6 @@
 ---
 title: "Chào mừng đến với Câu lạc bộ Sáng lập"
-date: 2025-09-06
+date: 2025-10-27
 excerpt: "Lời cảm ơn đặc biệt dành cho các thành viên sáng lập đã tin tưởng vào AICHIKI ngay từ đầu."
 published: false
 ---

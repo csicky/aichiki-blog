@@ -1,6 +1,6 @@
 ---
 title: "How Character Memory Works"
-date: 2025-01-15
+date: 2025-11-16
 excerpt: "Learn how Aichiki helps your AI characters remember conversations naturally with different memory levels for free and premium users."
 published: true
 ---

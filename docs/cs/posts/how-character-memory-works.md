@@ -1,6 +1,6 @@
 ---
 title: "Jak funguje paměť postav"
-date: 2025-01-15
+date: 2025-11-16
 excerpt: "Zjistěte, jak Aichiki pomáhá vašim AI postavám přirozeně si pamatovat konverzace, s různými úrovněmi paměti pro bezplatné a prémiové uživatele."
 published: true
 ---

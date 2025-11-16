@@ -1,6 +1,6 @@
 ---
 title: '选择您的 AICHIKI 计划：简单指南'
-date: 2024-07-30
+date: 2025-11-16
 excerpt: '帮助您选择最适合您需求的 AICHIKI 计划的清晰指南。探索免费、Plus 和 Premium 层级——进入同一世界的三种方式,每一种都会打开得更宽一些。'
 published: true
 ---

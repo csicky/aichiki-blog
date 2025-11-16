@@ -1,6 +1,6 @@
 ---
 title: "Hogyan működik a karakterek memóriája"
-date: 2025-01-15
+date: 2025-11-16
 excerpt: "Ismerje meg, hogyan segíti az Aichiki az AI karaktereket abban, hogy természetesen emlékezzenek a beszélgetésekre, különböző memóriaszintekkel az ingyenes és prémium felhasználók számára."
 published: true
 ---

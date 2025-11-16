@@ -1,6 +1,6 @@
 ---
 title: "欢迎加入创始人俱乐部"
-date: 2025-09-06
+date: 2025-10-27
 excerpt: "特别感谢从一开始就相信 AICHIKI 的创始成员。"
 published: false
 ---

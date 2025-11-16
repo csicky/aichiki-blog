@@ -1,6 +1,6 @@
 ---
 title: "Cara kerja memori karakter"
-date: 2025-01-15
+date: 2025-11-16
 excerpt: "Pelajari bagaimana Aichiki membantu karakter AI Anda mengingat percakapan secara alami, dengan tingkat memori berbeda untuk pengguna gratis dan premium."
 published: true
 ---

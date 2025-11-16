@@ -1,6 +1,6 @@
 ---
 title: "파운더스 클럽에 오신 것을 환영합니다"
-date: 2025-09-06
+date: 2025-10-27
 excerpt: "처음부터 AICHIKI를 믿어주신 창립 멤버들께 특별한 감사를 드립니다."
 published: false
 ---

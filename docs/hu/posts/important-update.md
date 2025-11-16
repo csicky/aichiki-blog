@@ -1,6 +1,6 @@
 ---
 title: "Fontos frissítés az MI modelljeinkről"
-date: 2024-07-06
+date: 2025-07-08
 excerpt: "Fontos frissítés az MI modelljeinkről. Annak érdekében, hogy az AICHIKI fenntartható és reklámmentes maradjon, az ingyenes felhasználók számára kedvezőbb árú modellekre váltunk, míg a prémium felhasználók továbbra is a magasabb szintű modelleket használhatják."
 published: true
 ---

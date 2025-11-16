@@ -1,6 +1,6 @@
 ---
 title: "Selamat Datang di Klub Pendiri"
-date: 2025-09-06
+date: 2025-10-27
 excerpt: "Terima kasih khusus untuk anggota pendiri kami yang percaya pada AICHIKI sejak awal."
 published: false
 ---

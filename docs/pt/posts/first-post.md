@@ -1,6 +1,6 @@
 ---
 title: "Bem-vindo ao Blog da AICHIKI: IA Construída Para Você"
-date: 2024-07-05
+date: 2025-07-06
 excerpt: "Conheça os fundadores da AICHIKI e aprenda sobre nossa filosofia centrada no usuário para construir uma plataforma de chat com IA pessoal, intuitiva e segura."
 ---
 

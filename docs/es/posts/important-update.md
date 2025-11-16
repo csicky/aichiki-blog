@@ -1,6 +1,6 @@
 ---
 title: "Una actualización importante sobre nuestros modelos de IA"
-date: 2024-07-06
+date: 2025-07-08
 excerpt: "Una actualización importante sobre nuestros modelos de IA. Para mantener AICHIKI sostenible y sin anuncios, cambiaremos a modelos más asequibles para los usuarios gratuitos, mientras que los usuarios premium seguirán con los modelos de nivel superior."
 published: true
 ---

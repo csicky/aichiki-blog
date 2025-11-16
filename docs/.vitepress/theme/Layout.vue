@@ -1,16 +1,18 @@
 <script setup>
 import DefaultTheme from 'vitepress/theme'
 import Home from './Home.vue'
-import { useData } from 'vitepress'
+import BlogDate from './BlogDate.vue'
 
 const { Layout } = DefaultTheme
-const { frontmatter } = useData()
 </script>
 
 <template>
   <Layout>
     <template #home-hero-after>
       <Home />
+    </template>
+    <template #doc-before>
+      <BlogDate />
     </template>
   </Layout>
 </template>

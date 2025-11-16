@@ -1,6 +1,6 @@
 ---
 title: "角色记忆如何运作"
-date: 2025-01-15
+date: 2025-11-16
 excerpt: "了解 Aichiki 如何帮助您的 AI 角色自然地记住对话,为免费和高级用户提供不同的记忆级别。"
 published: true
 ---

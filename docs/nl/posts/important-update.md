@@ -1,6 +1,6 @@
 ---
 title: "Een belangrijke update over onze AI-modellen"
-date: 2024-07-06
+date: 2025-07-08
 excerpt: "Een belangrijke update over onze AI-modellen. Om AICHIKI duurzaam en advertentievrij te houden, stappen we over op meer betaalbare modellen voor gratis gebruikers, terwijl premium gebruikers de duurdere modellen blijven gebruiken."
 published: true
 ---

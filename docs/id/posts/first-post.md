@@ -1,6 +1,6 @@
 ---
 title: "Selamat Datang di Blog AICHIKI: AI yang Dibangun Untuk Anda"
-date: 2024-07-05
+date: 2025-07-06
 excerpt: "Temui para pendiri AICHIKI dan pelajari tentang filosofi kami yang berpusat pada pengguna untuk membangun platform obrolan AI yang personal, intuitif, dan aman."
 ---
 

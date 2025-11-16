@@ -1,6 +1,6 @@
 ---
 title: "AI Modellerimiz Hakkında Önemli Bir Güncelleme"
-date: 2024-07-06
+date: 2025-07-08
 excerpt: "AI modellerimiz hakkında önemli bir güncelleme. AICHIKI'yi sürdürülebilir ve reklamsız tutmak için ücretsiz kullanıcılar için daha uygun fiyatlı modellere geçiş yapacağız, premium kullanıcılar ise üst düzey modelleri kullanmaya devam edecek."
 published: true
 ---

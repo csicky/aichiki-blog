@@ -1,6 +1,6 @@
 ---
 title: 'Memilih Paket AICHIKI Anda: Panduan Sederhana'
-date: 2024-07-30
+date: 2025-11-16
 excerpt: 'Panduan jelas untuk membantu Anda memilih paket AICHIKI terbaik untuk kebutuhan Anda. Jelajahi tingkat Gratis, Plus, dan Premium—tiga jalan ke dunia yang sama, masing-masing terbuka sedikit lebih lebar.'
 published: true
 ---

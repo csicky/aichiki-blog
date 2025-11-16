@@ -1,6 +1,6 @@
 ---
 title: "Ismerje meg AICHIKI-t: Az alkalmazáson belüli asszisztensét"
-date: 2025-01-15
+date: 2025-11-16
 excerpt: "Fedezze fel AICHIKI-t, a beépített asszisztenst, amely segít navigálni az alkalmazásban, megérteni a funkciókat és közvetlen válaszokat kapni szerepjáték nélkül."
 published: true
 ---

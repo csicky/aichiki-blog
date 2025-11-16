@@ -1,6 +1,6 @@
 ---
 title: "Hoe karaktergeheugen werkt"
-date: 2025-01-15
+date: 2025-11-16
 excerpt: "Leer hoe Aichiki uw AI-karakters helpt om gesprekken natuurlijk te onthouden, met verschillende geheugenniveaus voor gratis en premium gebruikers."
 published: true
 ---

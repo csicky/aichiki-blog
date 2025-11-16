@@ -1,6 +1,6 @@
 ---
 title: "Willkommen im Founders Club"
-date: 2025-09-06
+date: 2025-10-27
 excerpt: "Ein besonderer Dank an unsere Gründungsmitglieder, die von Anfang an an AICHIKI geglaubt haben."
 published: false
 ---

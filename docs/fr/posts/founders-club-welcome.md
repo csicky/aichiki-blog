@@ -1,6 +1,6 @@
 ---
 title: "Bienvenue au Club des Fondateurs"
-date: 2025-09-06
+date: 2025-10-27
 excerpt: "Un remerciement spécial à nos membres fondateurs qui ont cru en AICHIKI dès le début."
 published: false
 ---

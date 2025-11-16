@@ -1,6 +1,6 @@
 ---
 title: "Pembaruan Penting tentang Model AI Kami"
-date: 2024-07-06
+date: 2025-07-08
 excerpt: "Pembaruan penting tentang model AI kami. Untuk menjaga AICHIKI tetap berkelanjutan dan bebas iklan, kami akan beralih ke model yang lebih terjangkau untuk pengguna gratis, sementara pengguna premium akan terus menggunakan model tingkat atas."
 published: true
 ---

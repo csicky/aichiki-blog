@@ -1,6 +1,6 @@
 ---
 title: "Ein wichtiges Update zu unseren KI-Modellen"
-date: 2024-07-06
+date: 2025-07-08
 excerpt: "Ein wichtiges Update zu unseren KI-Modellen. Um AICHIKI nachhaltig und werbefrei zu halten, werden wir für kostenlose Nutzer auf günstigere Modelle umsteigen, während Premium-Nutzer weiterhin die hochwertigeren Modelle nutzen können."
 published: true
 ---

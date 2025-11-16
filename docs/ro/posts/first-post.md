@@ -1,6 +1,6 @@
 ---
 title: "Bine ați venit pe Blogul AICHIKI: IA Construită Pentru Tine"
-date: 2024-07-05
+date: 2025-07-06
 excerpt: "Faceți cunoștință cu fondatorii AICHIKI și aflați despre filozofia noastră centrată pe utilizator pentru a construi o platformă de chat cu IA personală, intuitivă și sigură."
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Conheça a AICHIKI: Sua Assistente no Aplicativo"
-date: 2025-01-15
+date: 2025-11-16
 excerpt: "Descubra a AICHIKI, a assistente integrada projetada para ajudá-lo a navegar no aplicativo, entender recursos e obter respostas diretas sem entrar em jogo de interpretação de papéis."
 published: true
 ---

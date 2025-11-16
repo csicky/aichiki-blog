@@ -1,6 +1,6 @@
 ---
 title: "Důležitá aktualizace našich modelů umělé inteligence"
-date: 2024-07-06
+date: 2025-07-08
 excerpt: "Důležitá aktualizace našich modelů umělé inteligence. Abychom udrželi AICHIKI udržitelné a bez reklam, přejdeme u bezplatných uživatelů na cenově dostupnější modely, zatímco prémioví uživatelé budou i nadále používat modely vyšší třídy."
 published: true
 ---

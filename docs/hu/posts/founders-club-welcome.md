@@ -1,6 +1,6 @@
 ---
 title: "Üdvözöljük az Alapítók Klubjában"
-date: 2025-09-06
+date: 2025-10-27
 excerpt: "Különleges köszönet alapító tagjainknak, akik kezdettől fogva hittek az AICHIKI-ban."
 published: false
 ---

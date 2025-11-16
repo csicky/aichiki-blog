@@ -1,6 +1,6 @@
 ---
 title: 'AICHIKI Planınızı Seçmek: Basit Bir Kılavuz'
-date: 2024-07-30
+date: 2025-11-16
 excerpt: 'İhtiyaçlarınız için en iyi AICHIKI planını seçmenize yardımcı olacak net bir kılavuz. Ücretsiz, Plus ve Premium seviyelerini keşfedin—aynı dünyaya üç yol, her biri biraz daha geniş açılıyor.'
 published: true
 ---

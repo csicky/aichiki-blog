@@ -1,6 +1,6 @@
 ---
 title: "Welkom op de AICHIKI Blog: AI Gebouwd Voor Jou"
-date: 2024-07-05
+date: 2025-07-06
 excerpt: "Maak kennis met de oprichters van AICHIKI en leer over onze gebruikersgerichte filosofie voor het bouwen van een persoonlijk, intuïtief en veilig AI-chatplatform."
 ---
 

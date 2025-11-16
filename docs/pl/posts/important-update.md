@@ -1,6 +1,6 @@
 ---
 title: "Ważna aktualizacja dotycząca naszych modeli AI"
-date: 2024-07-06
+date: 2025-07-08
 excerpt: "Ważna aktualizacja dotycząca naszych modeli AI. Aby utrzymać AICHIKI w sposób zrównoważony i wolny od reklam, przełączymy darmowych użytkowników na bardziej przystępne cenowo modele, podczas gdy użytkownicy premium będą nadal korzystać z modeli wyższego poziomu."
 published: true
 ---

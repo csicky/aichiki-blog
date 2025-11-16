@@ -1,6 +1,6 @@
 ---
 title: "Cập nhật quan trọng về các mô hình AI của chúng tôi"
-date: 2024-07-06
+date: 2025-07-08
 excerpt: "Cập nhật quan trọng về các mô hình AI của chúng tôi. Để giữ cho AICHIKI bền vững và không có quảng cáo, chúng tôi sẽ chuyển sang các mô hình giá cả phải chăng hơn cho người dùng miễn phí, trong khi người dùng cao cấp sẽ tiếp tục với các mô hình cấp cao hơn."
 published: true
 ---

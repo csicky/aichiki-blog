@@ -1,6 +1,6 @@
 ---
 title: "Seznamte se s AICHIKI: Vaším asistentem v aplikaci"
-date: 2025-01-15
+date: 2025-11-16
 excerpt: "Objevte AICHIKI, vestavěného asistenta navrženého tak, aby vám pomohl orientovat se v aplikaci, porozumět funkcím a získat přímé odpovědi bez hraní rolí."
 published: true
 ---

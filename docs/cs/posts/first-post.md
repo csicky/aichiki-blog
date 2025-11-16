@@ -1,6 +1,6 @@
 ---
 title: "Vítejte na blogu AICHIKI: AI vytvořená pro vás"
-date: 2024-07-05
+date: 2025-07-06
 excerpt: "Seznamte se se zakladateli AICHIKI a dozvíte se o naší filozofii zaměřené na uživatele při budování osobní, intuitivní a bezpečné platformy pro chat s AI."
 ---
 

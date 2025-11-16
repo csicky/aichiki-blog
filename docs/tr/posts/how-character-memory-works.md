@@ -1,6 +1,6 @@
 ---
 title: "Karakter hafızası nasıl çalışır"
-date: 2025-01-15
+date: 2025-11-16
 excerpt: "Aichiki'nin ücretsiz ve premium kullanıcılar için farklı hafıza seviyeleriyle AI karakterlerinizin konuşmaları doğal olarak hatırlamasına nasıl yardımcı olduğunu öğrenin."
 published: true
 ---

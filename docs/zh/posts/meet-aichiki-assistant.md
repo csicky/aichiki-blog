@@ -1,6 +1,6 @@
 ---
 title: "认识AICHIKI:您的应用内助手"
-date: 2025-01-15
+date: 2025-11-16
 excerpt: "了解AICHIKI,这款内置助手旨在帮助您浏览应用、理解功能并获得直接答案,无需进入角色扮演。"
 published: true
 ---

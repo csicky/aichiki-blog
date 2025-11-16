@@ -1,6 +1,6 @@
 ---
 title: "Willkommen im AICHIKI-Blog: KI, für Sie gebaut"
-date: 2024-07-05
+date: 2025-07-06
 excerpt: "Lernen Sie die Gründer von AICHIKI kennen und erfahren Sie mehr über unsere nutzerzentrierte Philosophie beim Aufbau einer persönlichen, intuitiven und sicheren KI-Chat-Plattform."
 ---
 

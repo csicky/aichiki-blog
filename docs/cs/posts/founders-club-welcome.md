@@ -1,6 +1,6 @@
 ---
 title: "Vítejte v Klubu zakladatelů"
-date: 2025-09-06
+date: 2025-10-27
 excerpt: "Zvláštní poděkování našim zakládajícím členům, kteří věřili v AICHIKI od samého začátku."
 published: false
 ---

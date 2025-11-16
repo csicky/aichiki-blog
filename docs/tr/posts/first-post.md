@@ -1,6 +1,6 @@
 ---
 title: "AICHIKI Bloguna Hoş Geldiniz: Sizin İçin İnşa Edilmiş Yapay Zeka"
-date: 2024-07-05
+date: 2025-07-06
 excerpt: "AICHIKI'nin kurucularıyla tanışın ve kişisel, sezgisel ve güvenli bir yapay zeka sohbet platformu oluşturma konusundaki kullanıcı merkezli felsefemiz hakkında bilgi edinin."
 ---
 

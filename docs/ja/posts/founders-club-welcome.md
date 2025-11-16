@@ -1,6 +1,6 @@
 ---
 title: "ファウンダーズクラブへようこそ"
-date: 2025-09-06
+date: 2025-10-27
 excerpt: "最初からAICHIKIを信じてくださった創設メンバーの皆様への特別な感謝。"
 published: false
 ---

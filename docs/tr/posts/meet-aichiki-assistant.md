@@ -1,6 +1,6 @@
 ---
 title: "AICHIKI ile Tanışın: Uygulama İçi Asistanınız"
-date: 2025-01-15
+date: 2025-11-16
 excerpt: "Uygulamada gezinmenize, özellikleri anlamanıza ve rol yapma oyunlarına girmeden doğrudan yanıtlar almanıza yardımcı olmak için tasarlanmış yerleşik asistan AICHIKI'yi keşfedin."
 published: true
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Fă cunoștință cu AICHIKI: Asistenta ta din aplicație"
-date: 2025-01-15
+date: 2025-11-16
 excerpt: "Descoperă AICHIKI, asistenta integrată concepută pentru a te ajuta să navighezi prin aplicație, să înțelegi funcțiile și să obții răspunsuri directe fără a intra în jocuri de rol."
 published: true
 ---

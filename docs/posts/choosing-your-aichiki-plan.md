@@ -1,6 +1,6 @@
 ---
 title: 'Choosing Your AICHIKI Plan: A Simple Guide'
-date: 2024-07-30
+date: 2025-11-16
 excerpt: 'A clear guide to help you choose the best AICHIKI plan for your needs. Explore Free, Plus, and Premium tiers—three ways into the same world, each opening a little wider.'
 published: true
 ---

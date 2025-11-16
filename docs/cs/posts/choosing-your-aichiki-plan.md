@@ -1,6 +1,6 @@
 ---
 title: 'Výběr Vašeho Plánu AICHIKI: Jednoduchý Průvodce'
-date: 2024-07-30
+date: 2025-11-16
 excerpt: 'Jasný průvodce, který vám pomůže vybrat nejlepší plán AICHIKI pro vaše potřeby. Prozkoumejte úrovně Zdarma, Plus a Premium—tři cesty do stejného světa, každá se otevírá o trochu šířeji.'
 published: true
 ---

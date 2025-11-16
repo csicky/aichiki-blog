@@ -1,6 +1,6 @@
 ---
 title: "Poznaj AICHIKI: Twojego Asystenta w Aplikacji"
-date: 2025-01-15
+date: 2025-11-16
 excerpt: "Odkryj AICHIKI, wbudowanego asystenta zaprojektowanego, aby pomóc Ci poruszać się po aplikacji, rozumieć funkcje i uzyskiwać bezpośrednie odpowiedzi bez wchodzenia w grę fabularną."
 published: true
 ---

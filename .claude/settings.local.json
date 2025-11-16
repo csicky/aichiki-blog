@@ -13,7 +13,9 @@
       "Bash(Get-Content \"D:\\aichiki\\aichiki-blog\\docs\\it\\posts\\choosing-your-aichiki-plan.md\" -Head 10 -Encoding UTF8)",
       "Bash(DEBUG=vite:*)",
       "Bash(npx vitepress:*)",
-      "Bash(npm run deploy:*)"
+      "Bash(npm run deploy:*)",
+      "Bash(npm run docs:dev:*)",
+      "Bash(powershell -Command \"Get-Process | Where-Object {$_ProcessName -like ''*node*''} | Select-Object Id,ProcessName,StartTime\")"
     ],
     "deny": [],
     "ask": []

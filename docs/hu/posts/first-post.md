@@ -1,6 +1,6 @@
 ---
 title: "Üdvözöljük az AICHIKI Blogon: Önnek Készült MI"
-date: 2024-07-05
+date: 2025-07-06
 excerpt: "Ismerje meg az AICHIKI alapítóit, és tudjon meg többet a felhasználó-központú filozófiánkról, amellyel egy személyes, intuitív és biztonságos MI csevegőplatformot építünk."
 ---
 

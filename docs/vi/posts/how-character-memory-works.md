@@ -1,6 +1,6 @@
 ---
 title: "Bộ nhớ nhân vật hoạt động như thế nào"
-date: 2025-01-15
+date: 2025-11-16
 excerpt: "Tìm hiểu cách Aichiki giúp các nhân vật AI của bạn ghi nhớ cuộc trò chuyện một cách tự nhiên với các cấp độ bộ nhớ khác nhau cho người dùng miễn phí và cao cấp."
 published: true
 ---

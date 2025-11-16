@@ -1,6 +1,6 @@
 ---
 title: 'Chọn Gói AICHIKI Của Bạn: Hướng Dẫn Đơn Giản'
-date: 2024-07-30
+date: 2025-11-16
 excerpt: 'Hướng dẫn rõ ràng để giúp bạn chọn gói AICHIKI tốt nhất cho nhu cầu của mình. Khám phá các cấp Miễn phí, Plus và Premium—ba con đường đến cùng một thế giới, mỗi con mở rộng hơn một chút.'
 published: true
 ---

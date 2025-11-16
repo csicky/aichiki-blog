@@ -1,6 +1,6 @@
 ---
 title: "Meet AICHIKI: Your In-App Assistant"
-date: 2025-01-15
+date: 2025-11-16
 excerpt: "Discover AICHIKI, the built-in assistant designed to help you navigate the app, understand features, and get direct answers without entering roleplay."
 published: true
 ---

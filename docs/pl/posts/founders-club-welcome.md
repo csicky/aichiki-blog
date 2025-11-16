@@ -1,6 +1,6 @@
 ---
 title: "Witamy w Klubie Założycieli"
-date: 2025-09-06
+date: 2025-10-27
 excerpt: "Specjalne podziękowania dla naszych członków-założycieli, którzy wierzyli w AICHIKI od samego początku."
 published: false
 ---
