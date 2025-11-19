@@ -1,21 +1,14 @@
 {
   "permissions": {
     "allow": [
-      "Bash(test:*)",
-      "Bash(cat:*)",
+      "Bash(if not exist \"d:\\aichiki\\aichiki-blog\\docs\\ar\\posts\" mkdir \"d:\\aichiki\\aichiki-blog\\docs\\ar\\posts\")",
+      "Bash(if not exist \"d:\\aichiki\\aichiki-blog\\docs\\ro\\posts\" mkdir \"d:\\aichiki\\aichiki-blog\\docs\\ro\\posts\")",
+      "Bash(if not exist \"d:\\aichiki\\aichiki-blog\\docs\\hi\\posts\" mkdir \"d:\\aichiki\\aichiki-blog\\docs\\hi\\posts\")",
+      "Bash(if not exist \"d:\\aichiki\\aichiki-blog\\docs\\nl\\posts\" mkdir \"d:\\aichiki\\aichiki-blog\\docs\\nl\\posts\")",
+      "Bash(powershell -Command:*)",
       "Bash(npm run docs:build:*)",
-      "Bash(Select-String -Pattern \"\\.md\")",
-      "Bash(Select-Object -First 5)",
-      "Bash(node -e:*)",
-      "Bash(powershell.exe -ExecutionPolicy Bypass -File clean-null-bytes.ps1)",
-      "Bash(node:*)",
-      "Bash(powershell.exe:*)",
-      "Bash(Get-Content \"D:\\aichiki\\aichiki-blog\\docs\\it\\posts\\choosing-your-aichiki-plan.md\" -Head 10 -Encoding UTF8)",
-      "Bash(DEBUG=vite:*)",
-      "Bash(npx vitepress:*)",
-      "Bash(npm run deploy:*)",
-      "Bash(npm run docs:dev:*)",
-      "Bash(powershell -Command \"Get-Process | Where-Object {$_ProcessName -like ''*node*''} | Select-Object Id,ProcessName,StartTime\")"
+      "Bash(npm ci:*)",
+      "Bash(dir /b \"d:\\aichiki\\aichiki-blog\\docs\")"
     ],
     "deny": [],
     "ask": []

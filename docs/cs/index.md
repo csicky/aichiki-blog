@@ -11,4 +11,5 @@ hero:
   actions:
     - theme: brand
       text: Přečtěte si náš uvítací příspěvek
-      link: /posts/first-post
+      link: /cs/posts/first-post
+---
