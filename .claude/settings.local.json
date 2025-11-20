@@ -1,14 +1,10 @@
 {
   "permissions": {
     "allow": [
-      "Bash(if not exist \"d:\\aichiki\\aichiki-blog\\docs\\ar\\posts\" mkdir \"d:\\aichiki\\aichiki-blog\\docs\\ar\\posts\")",
-      "Bash(if not exist \"d:\\aichiki\\aichiki-blog\\docs\\ro\\posts\" mkdir \"d:\\aichiki\\aichiki-blog\\docs\\ro\\posts\")",
-      "Bash(if not exist \"d:\\aichiki\\aichiki-blog\\docs\\hi\\posts\" mkdir \"d:\\aichiki\\aichiki-blog\\docs\\hi\\posts\")",
-      "Bash(if not exist \"d:\\aichiki\\aichiki-blog\\docs\\nl\\posts\" mkdir \"d:\\aichiki\\aichiki-blog\\docs\\nl\\posts\")",
-      "Bash(powershell -Command:*)",
-      "Bash(npm run docs:build:*)",
-      "Bash(npm ci:*)",
-      "Bash(dir /b \"d:\\aichiki\\aichiki-blog\\docs\")"
+      "Bash(Select-String -Path $_ullName -Pattern \"excerpt:\" -Context 0,1)",
+      "Bash(Select-Object -First 1 })",
+      "Bash(Remove-Item -Recurse -Force \"docs/.vitepress/.temp\" -ErrorAction SilentlyContinue)",
+      "Bash(Remove-Item -Recurse -Force \"docs/.vitepress/dist\" -ErrorAction SilentlyContinue)"
     ],
     "deny": [],
     "ask": []
