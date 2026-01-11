@@ -1,6 +1,6 @@
 ---
 title: 'Dlaczego Premium Sadzisz Drzewo'
-date: 2025-01-02
+date: 2026-01-02
 excerpt: 'Każda subskrypcja Premium obejmuje jedno drzewo posadzone każdego miesiąca w Twoim imieniu. Małe działania, powtarzane konsekwentnie, mają znaczenie.'
 published: true
 ---

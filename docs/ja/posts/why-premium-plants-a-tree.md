@@ -1,6 +1,6 @@
 ---
 title: 'Premiumが1本の木を植える理由'
-date: 2025-01-02
+date: 2026-01-02
 excerpt: 'Premium購読には毎月1本の木を植えることが含まれています。小さな行動を継続することが大切です。'
 published: true
 ---

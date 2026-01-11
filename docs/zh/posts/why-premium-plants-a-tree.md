@@ -1,6 +1,6 @@
 ---
 title: '为什么 Premium 种植树木'
-date: 2025-01-02
+date: 2026-01-02
 excerpt: '每个 Premium 订阅每月都包含一棵为您种植的树。小小的行动，持续不断地重复，能产生重大影响。'
 published: true
 ---

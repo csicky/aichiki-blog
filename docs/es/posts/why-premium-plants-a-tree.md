@@ -1,6 +1,6 @@
 ---
 title: 'Por qué Premium planta un árbol'
-date: 2025-01-02
+date: 2026-01-02
 excerpt: 'Cada suscripción Premium incluye un árbol plantado cada mes en tu nombre. Las pequeñas acciones, repetidas consistentemente, importan.'
 published: true
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Why Premium Plants a Tree'
-date: 2025-01-02
+date: 2026-01-02
 excerpt: 'Every Premium subscription includes one tree planted each month on your behalf. Small actions, repeated consistently, matter.'
 published: true
 ---

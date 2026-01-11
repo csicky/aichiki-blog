@@ -1,6 +1,6 @@
 ---
 title: 'Waarom Premium een Boom Plant'
-date: 2025-01-02
+date: 2026-01-02
 excerpt: 'Elk Premium-abonnement omvat één boom die elke maand namens jou wordt geplant. Kleine acties, consistent herhaald, maken het verschil.'
 published: true
 ---

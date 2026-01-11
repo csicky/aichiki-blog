@@ -1,6 +1,6 @@
 ---
 title: 'De ce Premium Plantează un Copac'
-date: 2025-01-02
+date: 2026-01-02
 excerpt: 'Fiecare abonament Premium include un copac plantat în fiecare lună în numele tău. Acțiunile mici, repetate consecvent, au importanță.'
 published: true
 ---

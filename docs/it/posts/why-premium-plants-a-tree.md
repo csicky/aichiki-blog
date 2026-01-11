@@ -1,6 +1,6 @@
 ---
 title: 'Perché Premium Pianta un Albero'
-date: 2025-01-02
+date: 2026-01-02
 excerpt: 'Ogni abbonamento Premium include un albero piantato ogni mese a tuo favore. Le piccole azioni, ripetute con coerenza, contano.'
 published: true
 ---

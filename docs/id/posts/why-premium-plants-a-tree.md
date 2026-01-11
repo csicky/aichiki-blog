@@ -1,6 +1,6 @@
 ---
 title: 'Mengapa Premium Menanam Pohon'
-date: 2025-01-02
+date: 2026-01-02
 excerpt: 'Setiap langganan Premium mencakup satu pohon yang ditanam setiap bulan atas nama Anda. Tindakan kecil, diulang secara konsisten, sangat penting.'
 published: true
 ---

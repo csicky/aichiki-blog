@@ -1,6 +1,6 @@
 ---
 title: 'Warum Premium einen Baum pflanzt'
-date: 2025-01-02
+date: 2026-01-02
 excerpt: 'Jedes Premium-Abonnement beinhaltet einen monatlich gepflanzten Baum in Ihrem Namen. Kleine Maßnahmen, die konsequent wiederholt werden, sind wichtig.'
 published: true
 ---

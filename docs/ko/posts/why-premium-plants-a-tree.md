@@ -1,6 +1,6 @@
 ---
 title: 'Premium가 나무를 심는 이유'
-date: 2025-01-02
+date: 2026-01-02
 excerpt: 'Premium 구독에는 매달 당신을 대신해 한 그루의 나무를 심는 것이 포함됩니다. 작은 행동이라도 꾸준히 반복되면 의미가 있습니다.'
 published: true
 ---

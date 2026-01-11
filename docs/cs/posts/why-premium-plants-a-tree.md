@@ -1,6 +1,6 @@
 ---
 title: 'Proč Premium sází strom'
-date: 2025-01-02
+date: 2026-01-02
 excerpt: 'Každé předplatné Premium zahrnuje jednu stranu vysázenou každý měsíc vaším jménem. Malé akce, opakované konzistentně, mají smysl.'
 published: true
 ---

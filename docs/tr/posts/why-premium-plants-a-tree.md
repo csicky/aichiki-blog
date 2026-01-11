@@ -1,6 +1,6 @@
 ---
 title: 'Premium Neden Ağaç Dikilir'
-date: 2025-01-02
+date: 2026-01-02
 excerpt: 'Her Premium aboneliği ayda bir kez sizin adınıza bir ağaç dikilmesini içerir. Küçük eylemler, tutarlı bir şekilde tekrarlandığında önem kazanır.'
 published: true
 ---

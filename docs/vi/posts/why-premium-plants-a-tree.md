@@ -1,6 +1,6 @@
 ---
 title: 'Tại Sao Premium Trồng Một Cây Cối 🌱'
-date: 2025-01-02
+date: 2026-01-02
 excerpt: 'Mỗi gói đăng ký Premium bao gồm một cây được trồng mỗi tháng thay mặt cho bạn. Những hành động nhỏ, lặp lại một cách nhất quán, có ý nghĩa.'
 published: true
 ---

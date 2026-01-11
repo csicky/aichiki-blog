@@ -1,6 +1,6 @@
 ---
 title: 'Miért ültet a Premium egy fát'
-date: 2025-01-02
+date: 2026-01-02
 excerpt: 'Minden Premium előfizetés havi egy fa ültetésével jár az Ön nevében. A kicsi cselekedetek, ha következetesen ismételgetjük őket, számítanak.'
 published: true
 ---
